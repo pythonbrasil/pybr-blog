@@ -4,11 +4,7 @@ branches:
   - gh-pages
 language: python
 before_install:
-# troque a linha abaixo pelo resultado do comando:
-# travis encrypt-file publish-key
-# porém mantenha o final:
-# -out ~/.ssh/publish-key -d
-# - openssl aes-256-cbc -K $encrypted_591fe46d4973_key -iv $encrypted_591fe46d4973_iv -in publish-key.enc -out ~/.ssh/publish-key -d
+- openssl aes-256-cbc -K $encrypted_6c7bee72a465_key -iv $encrypted_6c7bee72a465_iv -in publish-key.enc -out ~/.ssh/publish-key -d
 - chmod u=rw,og= ~/.ssh/publish-key
 - echo "Host github.com" >> ~/.ssh/config
 - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
