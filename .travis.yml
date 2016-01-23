@@ -1,7 +1,7 @@
 sudo: false
 branches:
   only:
-  - pelican
+  - gh-pages
 language: python
 before_install:
 # troque a linha abaixo pelo resultado do comando:
