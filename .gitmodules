@@ -1,0 +1,3 @@
+[submodule "pelican-pybr"]
+	path = pelican-pybr
+	url = https://github.com/rougeth/pelican-pybr.git
