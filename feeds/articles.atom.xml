@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://sergiomario.github.io/pythonbrasilblog/" rel="alternate"></link><link href="http://sergiomario.github.io/pythonbrasilblog/feeds/articles.atom.xml" rel="self"></link><id>http://sergiomario.github.io/pythonbrasilblog/</id><updated>2016-01-23T18:00:00-02:00</updated><entry><title>Hello Wolrd</title><link href="http://sergiomario.github.io/pythonbrasilblog/hello-wolrd.html" rel="alternate"></link><updated>2016-01-23T18:00:00-02:00</updated><author><name>Mário Sérgio</name></author><id>tag:sergiomario.github.io,2016-01-23:pythonbrasilblog/hello-wolrd.html</id><summary type="html">&lt;p&gt;Fala Galera!!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-01-23T18:00:00-02:00</updated><entry><title>Hello Wolrd</title><link href="http://blog.pythonbrasil.org.br/hello-wolrd.html" rel="alternate"></link><updated>2016-01-23T18:00:00-02:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-01-23:hello-wolrd.html</id><summary type="html">&lt;p&gt;Fala Galera!!&lt;/p&gt;
 &lt;p&gt;Aqui é o Big Kahuna da Python Brasil 12.&lt;/p&gt;
 &lt;p&gt;Criamos esse blog para deixar vocês informados sobre tudo o que vai acontecer na Python Brasil.&lt;/p&gt;
 &lt;p&gt;Abraço a todos. Floripa aguarda vocês ;)&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://sergiomario.github.io/pythonbrasilblog/images/diario1.jpg"&gt;&lt;img alt="Work" src="http://sergiomario.github.io/pythonbrasilblog/images/diario1.jpg" /&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/diario1.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/diario1.jpg" /&gt;&lt;/a&gt;
 &lt;/div&gt;
 </summary></entry></feed>
