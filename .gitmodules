@@ -1,3 +1,3 @@
-[submodule "pelican-pybr"]
-	path = pelican-pybr
+[submodule "themes/pelican-pybr"]
+	path = themes/pelican-pybr
 	url = https://github.com/rougeth/pelican-pybr.git

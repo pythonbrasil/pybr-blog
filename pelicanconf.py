@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
-THEME = 'pelican-pybr'
+THEME = 'themes/pelican-pybr'
 
 DEFAULT_LANG = u'pt'
 
