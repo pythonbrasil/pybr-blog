@@ -2,7 +2,7 @@ Comunidade Python em Florianópolis
 ===================================
 
 :author: Mário Sérgio
-:date: 2016-2-03 13:00
+:date: 2016-2-03 01:00
 :image: /images/hack.jpg
 :summary: 
 
