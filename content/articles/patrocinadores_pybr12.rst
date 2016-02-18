@@ -6,6 +6,11 @@ Por que patrocinar a Python Brasil?
 :image: /images/pybr11.jpg
 :summary: 
 
+.. figure:: {filename}/images/pybr11.jpg
+    :target: {filename}/images/pybr11.jpg
+    :alt: Work
+    :align: center
+
 A linguagem Python está ganhando diariamente atenção em diversas áreas relacionadas a tecnologia. Uma das maiores descobertas dos últimos tempos, as ondas gravitacionais, só foi possível graças ao stack de ferramentas que o `Python <https://software.intel.com/en-us/blogs/2016/02/14/python-brings-us-the-ligo-gravity-wave-sound>`_ oferece. 
 
 Há também outra área que está em destaque no mercado de trabalho, o cientista de dados, carreira que também a linguagem Python é amplamente utilizada. Rodrigo Senra, programador Python, conta um pouco sobre a `carreira de cientista de dados <http://m.folha.uol.com.br/empregos/2016/02/1737397-veja-onde-estudar-para-ser-um-cientista-de-dados.shtml>`_ .
