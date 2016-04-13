@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/all.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-04-01T23:00:00-03:00</updated><entry><title>Globo.com patrocinadora oficial da PyBR 12</title><link href="http://blog.pythonbrasil.org.br/globocom-patrocinadora-oficial-da-pybr-12.html" rel="alternate"></link><updated>2016-04-01T23:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-04-01:globocom-patrocinadora-oficial-da-pybr-12.html</id><summary type="html">&lt;p&gt;Faala Galera... Aqui é o Big Kahuna 0/&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/all.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-04-13T14:00:00-03:00</updated><entry><title>Segunda Reunião - Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/segunda-reuniao-python-brasil-12.html" rel="alternate"></link><updated>2016-04-13T14:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-04-13:segunda-reuniao-python-brasil-12.html</id><summary type="html">&lt;p&gt;Faala Galera... Aqui é o Big Kahuna 0/&lt;/p&gt;
+&lt;p&gt;Aconteceu no Axado a segunda reunião referente a organização da próxima conferência Python Brasil. Discutimos muitas ideias interessantes para o evento como evolução do dia de Sprint e organização para as trilhas e tutoriais.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/reuniao.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/reuniao.jpg" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Turma boa!!&lt;/p&gt;
+&lt;p&gt;Abaixo segue a pauta e os participantes da Reunião.&lt;/p&gt;
+&lt;p&gt;Tópicos:
+- Local (Centro Sul)
+- Data (Será publicada em breve)
+- Patrocinadores e Apoios
+- Caravanas
+- Site
+- Versão em Inglês
+- Integração contínua - Travis
+- Inclusão de descrição das palestras e tutoriais
+- Inscrições
+- Tutoriais
+- Tradução Simultânea
+- Coffe Break
+- Filmagem
+- Audiovisual
+- Camisas/Crachás
+- Credenciamento+kit
+- Keynotes (Logística)
+- Sprint (revolução)
+- ligthning talks (Infra)
+- Happy hour
+- OktoberFest
+- Ajuda de custo diversidades&lt;/p&gt;
+&lt;p&gt;Participantes:
+- Mário Sérgio
+- Guilherme Maba
+- Mariany Ferreira
+- Leonardo Gregorio
+- André Pastore
+- Guilherme Guedes
+- Luiz Guilherme Bauer
+- Victor Botamedi
+- Valdir Stumm Junior
+- Stamatios Stamou Junior
+- Leticia Portella
+- Vanessa Cardoso
+- Victor Koinski
+- Ranieri Althoff&lt;/p&gt;
+&lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
+&lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
+</summary></entry><entry><title>Globo.com patrocinadora oficial da PyBR 12</title><link href="http://blog.pythonbrasil.org.br/globocom-patrocinadora-oficial-da-pybr-12.html" rel="alternate"></link><updated>2016-04-01T23:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-04-01:globocom-patrocinadora-oficial-da-pybr-12.html</id><summary type="html">&lt;p&gt;Faala Galera... Aqui é o Big Kahuna 0/&lt;/p&gt;
 &lt;p&gt;É com muita honra que anunciamos a Globo.com como patrocinadora oficial da Python Brasil 12. A globo já possui um estreito relacionamento com a comunidade Python no Brasil, apoiando regularmente as conferências. Uma organização que entende a responsabilidade de contribuir para o mundo do software livre como um todo.&lt;/p&gt;
 &lt;p&gt;Colocamos aqui o nosso agradecimento :)&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
