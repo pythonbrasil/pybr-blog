@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-04-27T23:00:00-03:00</updated><entry><title>Django Girls na Python Brasil</title><link href="http://blog.pythonbrasil.org.br/django-girls-na-python-brasil.html" rel="alternate"></link><updated>2016-04-27T23:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-04-27:django-girls-na-python-brasil.html</id><summary type="html">&lt;p&gt;Boas novas amigas e amigos.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-05-15T21:40:00-03:00</updated><entry><title>Direto do Nubank, Clojure na PyBR12</title><link href="http://blog.pythonbrasil.org.br/direto-do-nubank-clojure-na-pybr12.html" rel="alternate"></link><updated>2016-05-15T21:40:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-05-15:direto-do-nubank-clojure-na-pybr12.html</id><summary type="html">&lt;p&gt;Faala Galera... Aqui é o Big Kahuna.&lt;/p&gt;
+&lt;p&gt;Mais um Keynote confimado para a nossa conferência 0//&lt;/p&gt;
+&lt;p&gt;Konrad Scorciapino é um engenheiro de computação apaixonado por Clojure e programação funcional. Trabalha atualmente como Engenheiro de Software na Nubank e organiza os meetups &amp;quot;Machine Learning, Big Data e Engenharia e clj-sp&amp;quot;.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/konrad.jpg"&gt;&lt;img alt="Work12" src="http://blog.pythonbrasil.org.br/images/konrad.jpg" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Konrad Scorciapino&lt;/p&gt;
+&lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
+&lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
+</summary></entry><entry><title>Django Girls na Python Brasil</title><link href="http://blog.pythonbrasil.org.br/django-girls-na-python-brasil.html" rel="alternate"></link><updated>2016-04-27T23:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-04-27:django-girls-na-python-brasil.html</id><summary type="html">&lt;p&gt;Boas novas amigas e amigos.&lt;/p&gt;
 &lt;p&gt;Vai ter Django Girls na Python Brasil 0//&lt;/p&gt;
 &lt;p&gt;Por conta do engajamento de nossas incríveis girls, está confirmado para o dia 13 de outubro o Django Girls Floripa, o evento ocorrerá juntamente com o primeiro dia de tutoriais da Python Brasil.&lt;/p&gt;
 &lt;p&gt;Agradecemos em nome de toda a comunidade a coragem e altruísmo dessas mulheres, que são responsáveis por promover eventos que somam forças para um mundo melhor. A Dev/Oceanógrafa Leticia Portella está responsável pela organização.&lt;/p&gt;
