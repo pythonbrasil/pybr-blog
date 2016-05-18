@@ -1,4 +1,4 @@
-Direto do Nubank, Clojure na PyBR12
+Clojure na PyBR12
 ===================================
 
 :author: Mário Sérgio
@@ -10,7 +10,7 @@ Faala Galera... Aqui é o Big Kahuna.
 
 Mais um Keynote confimado para a nossa conferência 0// 
 
-Konrad Scorciapino é um engenheiro de computação apaixonado por Clojure e programação funcional. Trabalha atualmente como Engenheiro de Software na Nubank e organiza os meetups "Machine Learning, Big Data e Engenharia e clj-sp".
+Konrad Scorciapino é um engenheiro de computação apaixonado por Clojure e programação funcional. Trabalha atualmente como Engenheiro de Software e organiza os meetups "Machine Learning, Big Data e Engenharia e clj-sp".
 
 .. figure:: {filename}/images/konrad.jpg
     :target: {filename}/images/konrad.jpg
