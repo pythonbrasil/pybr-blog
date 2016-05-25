@@ -1,4 +1,4 @@
-Nota da Apyb sobre o episódio do keynote
+Nota da APyB sobre o episódio do keynote
 =========================================
 
 :author: APyB
