@@ -77,7 +77,7 @@ O Código de Conduta (CdC) visa tornar um pouco menos subjetivo o que é tolerá
 
 Este mesmo CdC não se aplica por exemplo ao fórum de discussões “PythonBrasil Programadores” no Facebook, porque este não é mantido pela APyB, mas por membros da Comunidade Python dos quais muitos participantes não são associados à APyB.
 
-Também não cabe a APyB julgar comportamentos individual de seus integrantes ou outras pessoas em redes sociais ou em eventos que a APyB não apoie, patrocine ou não seja a fomentadora responsável. Cabe à APyB apenas o que ocorre nas iniciativas de sua responsabilidade.
+Também não cabe a APyB julgar o comportamento individual de seus integrantes ou outras pessoas em redes sociais ou em eventos que a APyB não apoie, patrocine ou não seja a fomentadora responsável. Cabe à APyB apenas o que ocorre nas iniciativas de sua responsabilidade.
 
 **O que decidimos?**
 
@@ -89,8 +89,9 @@ Observamos que existe um limite importante na delegação de poderes que os memb
 
 Por isso decidimos que:
 
-Estão suspensos os dois keynotes da conferência, devido a falta de ânimos pelo constrangimento do episódio.
-A partir de agora os Membros da APyB farão a escolha dos keynotes e das palestras da PythonBrasil[12] através da lista de discussões oficial da associação.
+1) Estão suspensos os dois keynotes da conferência, devido a falta de ânimos pelo constrangimento do episódio.
+
+2) A partir de agora os Membros da APyB farão a escolha dos keynotes e das palestras da PythonBrasil[12] através da lista de discussões oficial da associação.
 
 **Conclusão**
 
