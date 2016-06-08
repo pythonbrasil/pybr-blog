@@ -7,6 +7,42 @@ Dicas da Cidade - Florianópolis
 :summary: 
 
 ===========================
+Oi! :D
+===========================
+
+E aí pessoal! Aqui é a Leticia Portella, Pylady local e Manézinha de coração s2! Moro nessa cidade linda há 8 anos e juntei um pouco de informações sobre nossos principais pontos turísticos da cidade! Muitos deles vi pessoalmente e acho que vale a pena conhecer!
+
+Espero que gostem da nossa ilha da magia tanto quando nós! 
+
+===========================
+Rancho do Amor à Ilha (Hino de Florianópolis)
+===========================
+
+Um pedacinho de terra,
+perdido no mar!…
+Num pedacinho de terra,
+beleza sem par…
+Jamais a natureza
+reuniu tanta beleza
+jamais algum poeta
+teve tanto pra cantar!
+
+Num pedacinho de terra
+belezas sem par!
+Ilha da moça faceira,
+da velha rendeira tradicional
+Ilha da velha figueira
+onde em tarde fagueira
+vou ler meu jornal.
+
+Tua lagoa formosa
+ternura de rosa
+poema ao luar,
+cristal onde a lua vaidosa
+sestrosa, dengosa
+vem se espelhar…
+
+===========================
 Para comer e beber (bem!)
 ===========================
 ---------------------------
@@ -382,10 +418,15 @@ Trilhas
 ===========================
 
 Trilha de Naufragados 
+
 Costa da Lagoa (é possível chegar de barco)
+
 Santinho-Moçambique 
+
 Piscinas da barra 
+
 Lagoinha do leste (é possível chegar de barco)
+
 Ratones para Costa da Lagoa
 
 Blog do grupo de trilhas da cidade: http://trilhasfloripa.com.br/
