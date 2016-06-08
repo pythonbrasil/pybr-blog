@@ -418,3 +418,18 @@ Santo Amaro da Imperatriz fica a 34 km de Florianópolis, na BR 282 em direção
 Praia do Rosa
 ---------------------------
 A Praia do Rosa é o lugar perfeito para aqueles que buscam descanso em meio a natureza e que querem fugir das praias super povoadas. Em muito, ainda lembra, a antiga vila de pescadores que era antes de ser descoberta por surfistas na década de 70. Ao sul e oeste do Rosa está a Lagoa da Ibiraquera onde a pesca do camarão é a grande atração nas noites de lua cheia, além de ser o local perfeito para admirar as mais variadas espécies de aves. Ótima opção para os adeptos de esportes como Windsurf, Kitesurf e o surfe. Mais ao sul está a Praia da Vila com suas ondas perfeitas, é considerada uma das melhores ondas do Brasil pelos surfistas. 
+
+===========================
+Informações sobre transporte 
+===========================
+
+Todas as informações sobre os ônibus podem ser encontradas em:
+http://www.consorciofenix.com.br/
+
+Não existe Uber em Florianópolis
+
+Central de Táxi (não é muito eficiente)
+(48) 3240-6009
+
+
+
