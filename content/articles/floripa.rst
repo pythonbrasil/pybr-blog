@@ -21,9 +21,6 @@ Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
     :target: http://4.bp.blogspot.com/-HvrQFVqi2ks/UXxI6CjdKcI/AAAAAAAAEyU/sythrJX_Xxc/s1600/IMG01035-20130427-1635.jpg
     :alt: Work
     :align: center
-
-
-
 Fonte: http://4.bp.blogspot.com/
 
 ---------------------------
@@ -38,7 +35,10 @@ Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático 
 
 R. Sen. Ivo D Aquino, 103 (Lagoa da Conceição)
 
-![Books and beers](http://bloglovers.com.br/wp-content/uploads/2014/01/booksbeers.jpg)
+.. figure:: http://bloglovers.com.br/wp-content/uploads/2014/01/booksbeers.jpg
+    :target: http://bloglovers.com.br/wp-content/uploads/2014/01/booksbeers.jpg
+    :alt: Work
+    :align: center
 Fonte: http://bloglovers.com.br/
 
 
@@ -49,7 +49,10 @@ Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e v
 
 Rua Des. Pedro Silva, 2360 (Coqueiros)
 
-![Zé Mané](http://revistafloripa.com.br/wp-content/uploads/2014/09/boteco-ze-mane-coqueiros1-620x417.jpg)
+.. figure:: http://revistafloripa.com.br/wp-content/uploads/2014/09/boteco-ze-mane-coqueiros1-620x417.jpg
+    :target: http://revistafloripa.com.br/wp-content/uploads/2014/09/boteco-ze-mane-coqueiros1-620x417.jpg
+    :alt: Work
+    :align: center
 Fonte: http://revistafloripa.com.br/
 
 ---------------------------
@@ -59,7 +62,11 @@ Ambientado em um casarão dos anos 1940 de frente para o mar, o bar tem proposta
 
  R. Des. Pedro Silva, 2406 (Coqueiros)
 
-![Coza Linda](https://destemperados.s3.amazonaws.com/arquivos/ckeditor/Cx6VQg8V7tdJcGK1wFJ/54dca61737bbc2.36704557.jpg)
+.. figure:: https://destemperados.s3.amazonaws.com/arquivos/ckeditor/Cx6VQg8V7tdJcGK1wFJ/54dca61737bbc2.36704557.jpg
+    :target: https://destemperados.s3.amazonaws.com/arquivos/ckeditor/Cx6VQg8V7tdJcGK1wFJ/54dca61737bbc2.36704557.jpg
+    :alt: Work
+    :align: center
+
 Fonte: https://destemperados.s3.amazonaws.com/
 
 ---------------------------
@@ -172,7 +179,11 @@ Inicialmente, os produtos vindos da região continental e das freguesias eram ex
 Sofreu vários incêndios, voltando sempre a ser reconstruído, pois afinal, além de ser um importante ponto de comércio é um patrimônio da Ilha de Santa Catarina 
 Está aberto de segunda a sexta-feira das 9h às 19h e sábados das 9h às 12h. Não abre aos domingos. (CONFIRMAR)
 
-![Mercado publico](http://www.virtualfloripa.com.br/images/postagens/mercado-novo.jpg)
+.. figure:: http://www.virtualfloripa.com.br/images/postagens/mercado-novo.jpg
+    :target: http://www.virtualfloripa.com.br/images/postagens/mercado-novo.jpg
+    :alt: Work
+    :align: center
+Fonte: http://www.virtualfloripa.com.br/
 
 ---------------------------
 Praça XV de Novembro
@@ -186,7 +197,11 @@ Arborizada durante o século XIX, a praça recebeu árvores de grande porte, com
 
 Tradicional, cantada em prosa e verso pelos artistas ilhéus, traz consigo superstições, como a de contorná-la várias vezes para atrair casamento e fortuna. Se a simpatia funciona ou não, só testando para saber, mas não deixe de aproveitar sua sombra fresca, que abriga vários banquinhos onde os aposentados da cidade descansam e jogam conversa fora.
 
-![Praça XV](https://c1.staticflickr.com/7/6121/5996061899_cc5720e639_b.jpg)
+.. figure:: https://c1.staticflickr.com/7/6121/5996061899_cc5720e639_b.jpg
+    :target: https://c1.staticflickr.com/7/6121/5996061899_cc5720e639_b.jpg
+    :alt: Work
+    :align: center
+Fonte: http://www.virtualfloripa.com.br/
 
 ---------------------------
 Palácio Cruz e Souza (Museu Histórico de Santa Catarina)
@@ -201,7 +216,11 @@ As escadarias são em mármore de Carrara, os florões do teto homenageiam os mu
 
 É uma das principais atrações do Centro Histórico.
 
-![Palacio](http://static.panoramio.com/photos/large/102864797.jpg)
+.. figure:: http://static.panoramio.com/photos/large/102864797.jpg
+    :target: http://static.panoramio.com/photos/large/102864797.jpg
+    :alt: Work
+    :align: center
+Fonte: http://static.panoramio.com
 
 (ingressos: R$ 5,00 por pessoa e gratuito para crianças e maiores de 65 anos)
 
@@ -211,7 +230,12 @@ Mirante do Morro da Cruz
 
 O Morro da Cruz é um dos melhores pontos para se contemplar uma vista panorâmica de Florianópolis, permitindo uma visão privilegiada das duas baías, das pontes que ligam a ilha ao continente e  dos bairros na região continental. Seu pico se encontra a 285 m de altura e, em dias claros, pode-se avistar também grande parte dos municípios da grande Florianópolis, como Palhoça, São José e Biguaçu. O principal acesso ao mirante do Morro da Cruz é feito pela Rua do Antão (via Beira Mar Norte), por meio do bairro Agronômica.
 
-![Mirante Morro da Cruz](http://ndonline.com.br/uploads/2011/09/20-09-2011-16-47-25-a-cidade-vista-do-morro-da-cruz-08.07.11-foto-rosane-lima-2-.jpg)
+
+.. figure:: http://ndonline.com.br/uploads/2011/09/20-09-2011-16-47-25-a-cidade-vista-do-morro-da-cruz-08.07.11-foto-rosane-lima-2-.jpg
+    :target: http://ndonline.com.br/uploads/2011/09/20-09-2011-16-47-25-a-cidade-vista-do-morro-da-cruz-08.07.11-foto-rosane-lima-2-.jpg
+    :alt: Work
+    :align: center
+Fonte: http://ndonline.com.br/
 
 ===========================
 Pontos Turísticos - Região Norte
@@ -239,7 +263,11 @@ A entrada custa apenas 8 reais (4 para estudantes e idosos são isentos). O aces
 
 Enfim, uma vez lá em cima, dê a volta no forte, veja o sol ou o pôr-do-sol na praia do Forte e aproveite o passeio histórico e a vista deslumbrante que você tem de lá de cima. A praia do forte conta com alguns restaurantes "de pé na areia", então também é válida para um happy hour.
 
-![Fortaleza](http://www.fortalezasmultimidia.com.br/santa_catarina/imagens/pontagrossag01.jpg)
+.. figure:: http://www.fortalezasmultimidia.com.br/santa_catarina/imagens/pontagrossag01.jpg
+    :target: http://www.fortalezasmultimidia.com.br/santa_catarina/imagens/pontagrossag01.jpg
+    :alt: Work
+    :align: center
+Fonte: http://www.fortalezasmultimidia.com.br/
 
 ---------------------------
 Passeio de Barco Ilhas na Baía Norte
@@ -262,7 +290,11 @@ A região conta com diversos restaurantes famosos por sua culinária como o Mari
 Além disso, vale uma visita à Igreja de Nossa Senhora das Necessidades, construída em 1757 e uma das principais feições da cultura barroca no Sul do Brasil. 
 Lojas de artesanatos e cerâmica também podem ser encontradas nas casas com formato típico açoriano, com as janelas diretamente nas calçadas. 
 
-![Santo Antonio](http://s1208.photobucket.com/user/jffaraco/media/2718b293.jpg.html?t=1290633873)
+.. figure:: http://s1208.photobucket.com/user/jffaraco/media/2718b293.jpg.html?t=1290633873
+    :target: http://s1208.photobucket.com/user/jffaraco/media/2718b293.jpg.html?t=1290633873
+    :alt: Work
+    :align: center
+Fonte: http://s1208.photobucket.com/
 
 ---------------------------
 Água Show Park
@@ -300,6 +332,12 @@ Ilha do Campeche
 ---------------------------
 A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
 Para chegar à ilha só de barco que tem saída pelas praias da Armação e do Campeche. O preço varia com a época do ano entre 75 e 100 reais ida e volta. É importante ficar ligado porque a ilha tem uma capacidade máxima de visitantes em um dia e, se ele for atingido, ninguém pode ir. Os barcos começam a sair por volta das 9 e voltam entre 3 e 4 da tarde. Para maiores informações consulte a Associação de Barqueiros do Campeche: 3338-3160/8424-3282/9903-8298 ou a Associação de Pescadores da Armação 3338-9470/8481-9930/8430-4097/9487-4521.
+
+.. figure:: http://romanticoschales.com.br/base/wp-content/uploads/2014/07/012.jpg
+    :target: http://romanticoschales.com.br/base/wp-content/uploads/2014/07/012.jpg
+    :alt: Work
+    :align: center
+Fonte: http://romanticoschales.com.br/
 
 ---------------------------
 Mirantes da lagoa
