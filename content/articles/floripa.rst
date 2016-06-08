@@ -19,27 +19,47 @@ Rancho do Amor à Ilha (Hino de Florianópolis)
 ===========================
 
 Um pedacinho de terra,
+
 perdido no mar!…
+
 Num pedacinho de terra,
+
 beleza sem par…
+
 Jamais a natureza
+
 reuniu tanta beleza
+
 jamais algum poeta
+
 teve tanto pra cantar!
 
+
 Num pedacinho de terra
+
 belezas sem par!
+
 Ilha da moça faceira,
+
 da velha rendeira tradicional
+
 Ilha da velha figueira
+
 onde em tarde fagueira
+
 vou ler meu jornal.
 
+
 Tua lagoa formosa
+
 ternura de rosa
+
 poema ao luar,
+
 cristal onde a lua vaidosa
+
 sestrosa, dengosa
+
 vem se espelhar…
 
 ===========================
