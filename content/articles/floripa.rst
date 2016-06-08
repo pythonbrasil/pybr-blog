@@ -290,11 +290,11 @@ A região conta com diversos restaurantes famosos por sua culinária como o Mari
 Além disso, vale uma visita à Igreja de Nossa Senhora das Necessidades, construída em 1757 e uma das principais feições da cultura barroca no Sul do Brasil. 
 Lojas de artesanatos e cerâmica também podem ser encontradas nas casas com formato típico açoriano, com as janelas diretamente nas calçadas. 
 
-.. figure:: http://s1208.photobucket.com/user/jffaraco/media/2718b293.jpg.html?t=1290633873
-    :target: http://s1208.photobucket.com/user/jffaraco/media/2718b293.jpg.html?t=1290633873
+.. figure:: https://media-cdn.tripadvisor.com/media/photo-s/09/31/9f/07/santo-antonio-de-lisboa.jpg
+    :target: https://media-cdn.tripadvisor.com/media/photo-s/09/31/9f/07/santo-antonio-de-lisboa.jpg
     :alt: Work
     :align: center
-Fonte: http://s1208.photobucket.com/
+Fonte: tripadvisor.com
 
 ---------------------------
 Água Show Park
