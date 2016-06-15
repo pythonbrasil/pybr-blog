@@ -19,9 +19,9 @@ Antes de entrar em contato na lista, é interessante já ter um canal de contato
 
 O nome do possível Keynoye, empresa ou projeto no qual trabalha/contribui, localização atual, Blog/Site e se possível um vídeo. 
 
-**Justificativa**
+**Motivação**
 
-Se for possível, enfatizar a defesa do Keynote em cima dos seguintes pontos:
+Defina um Keynote com a defesa dos seguintes pontos:
 
 -- Quão representativa é a pessoa para a comunidade Python?
 
