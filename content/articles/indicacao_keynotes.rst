@@ -17,7 +17,7 @@ Antes de entrar em contato na lista, é interessante já ter um canal de contato
 
 **O que precisa ter na proposta?**
 
-O nome do possível Keynoye, empresa ou projeto no qual trabalha/contribui, localização atual, Blog/Site e se possível um vídeo. 
+O nome do possível Keynote, empresa ou projeto no qual trabalha/contribui, localização atual, Blog/Site e se possível um vídeo. 
 
 **Motivação**
 
