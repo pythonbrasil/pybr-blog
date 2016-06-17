@@ -2,7 +2,7 @@ Dicas da Cidade - Florianópolis
 ===================================
 
 :author: Letícia Portella
-:date: 2016-6-17 16:00
+:date: 2016-6-17 20:00
 :image: /images/auge.jpg
 :summary: 
 
@@ -20,49 +20,21 @@ OBS: Esse post deve ser atualizado conforme conseguimos melhores infos! Fiquem a
 Rancho do Amor à Ilha (Hino de Florianópolis)
 ======================================================
 
-Um pedacinho de terra,
+Um pedacinho de terra, perdido no mar!…
 
-perdido no mar!…
+Num pedacinho de terra, beleza sem par…
 
-Num pedacinho de terra,
-
-beleza sem par…
-
-Jamais a natureza
-
-reuniu tanta beleza
-
-jamais algum poeta
-
-teve tanto pra cantar!
+Jamais a natureza reuniu tanta beleza jamais algum poeta teve tanto pra cantar!
 
 
-Num pedacinho de terra
+Num pedacinho de terra belezas sem par!
 
-belezas sem par!
+Ilha da moça faceira, da velha rendeira tradicional
 
-Ilha da moça faceira,
-
-da velha rendeira tradicional
-
-Ilha da velha figueira
-
-onde em tarde fagueira
-
-vou ler meu jornal.
+Ilha da velha figueira onde em tarde fagueira vou ler meu jornal.
 
 
-Tua lagoa formosa
-
-ternura de rosa
-
-poema ao luar,
-
-cristal onde a lua vaidosa
-
-sestrosa, dengosa
-
-vem se espelhar…
+Tua lagoa formosa ternura de rosa poema ao luar, cristal onde a lua vaidosa sestrosa, dengosa vem se espelhar…
 
 ===========================
 Para comer e beber (bem!)
@@ -75,8 +47,8 @@ Bar do Boni é uma atração típica! Localizado no fim da Avenida da Rendeiras,
 
 Av. Prefeito Acácio Garibaldi São Tiago, 67 (Lagoa da Conceição)
 
-.. figure:: http://4.bp.blogspot.com/-HvrQFVqi2ks/UXxI6CjdKcI/AAAAAAAAEyU/sythrJX_Xxc/s1600/IMG01035-20130427-1635.jpg
-    :target: http://4.bp.blogspot.com/-HvrQFVqi2ks/UXxI6CjdKcI/AAAAAAAAEyU/sythrJX_Xxc/s1600/IMG01035-20130427-1635.jpg
+.. figure:: images/bar_boni.jpg
+    :target: images/bar_boni.jpg
     :alt: Work
     :align: center
 
@@ -94,8 +66,8 @@ Para aqueles que gostam de boas cervejas, boa comida e boa vista. Bar temático 
 
 R. Sen. Ivo D Aquino, 103 (Lagoa da Conceição)
 
-.. figure:: http://bloglovers.com.br/wp-content/uploads/2014/01/booksbeers.jpg
-    :target: http://bloglovers.com.br/wp-content/uploads/2014/01/booksbeers.jpg
+.. figure:: images/booksbeers.jpg
+    :target: images/booksbeers.jpg
     :alt: Work
     :align: center
 
@@ -109,8 +81,8 @@ Localizado na Orla Gastronômica de Coqueiros, o bar tem ambiente agradável e v
 
 Rua Des. Pedro Silva, 2360 (Coqueiros)
 
-.. figure:: http://revistafloripa.com.br/wp-content/uploads/2014/09/boteco-ze-mane-coqueiros1-620x417.jpg
-    :target: http://revistafloripa.com.br/wp-content/uploads/2014/09/boteco-ze-mane-coqueiros1-620x417.jpg
+.. figure:: images/zemane.jpg
+    :target: images/zemane.jpg
     :alt: Work
     :align: center
 
@@ -123,8 +95,8 @@ Ambientado em um casarão dos anos 1940 de frente para o mar, o bar tem proposta
 
  R. Des. Pedro Silva, 2406 (Coqueiros)
 
-.. figure:: https://destemperados.s3.amazonaws.com/arquivos/ckeditor/Cx6VQg8V7tdJcGK1wFJ/54dca61737bbc2.36704557.jpg
-    :target: https://destemperados.s3.amazonaws.com/arquivos/ckeditor/Cx6VQg8V7tdJcGK1wFJ/54dca61737bbc2.36704557.jpg
+.. figure:: images/cozalinda.jpg
+    :target: images/cozalinda.jpg
     :alt: Work
     :align: center
 
@@ -240,8 +212,8 @@ Inicialmente, os produtos vindos da região continental e das freguesias eram ex
 Sofreu vários incêndios, voltando sempre a ser reconstruído, pois afinal, além de ser um importante ponto de comércio é um patrimônio da Ilha de Santa Catarina 
 Está aberto de segunda a sexta-feira das 9h às 19h e sábados das 9h às 12h. Não abre aos domingos. (CONFIRMAR)
 
-.. figure:: http://www.virtualfloripa.com.br/images/postagens/mercado-novo.jpg
-    :target: http://www.virtualfloripa.com.br/images/postagens/mercado-novo.jpg
+.. figure:: images/mercado-novo.jpg
+    :target: images/mercado-novo.jpg
     :alt: Work
     :align: center
 
@@ -259,8 +231,8 @@ Arborizada durante o século XIX, a praça recebeu árvores de grande porte, com
 
 Tradicional, cantada em prosa e verso pelos artistas ilhéus, traz consigo superstições, como a de contorná-la várias vezes para atrair casamento e fortuna. Se a simpatia funciona ou não, só testando para saber, mas não deixe de aproveitar sua sombra fresca, que abriga vários banquinhos onde os aposentados da cidade descansam e jogam conversa fora.
 
-.. figure:: https://c1.staticflickr.com/7/6121/5996061899_cc5720e639_b.jpg
-    :target: https://c1.staticflickr.com/7/6121/5996061899_cc5720e639_b.jpg
+.. figure:: images/arvore.jpg
+    :target: images/arvore.jpg
     :alt: Work
     :align: center
 
@@ -279,8 +251,8 @@ As escadarias são em mármore de Carrara, os florões do teto homenageiam os mu
 
 É uma das principais atrações do Centro Histórico.
 
-.. figure:: http://static.panoramio.com/photos/large/102864797.jpg
-    :target: http://static.panoramio.com/photos/large/102864797.jpg
+.. figure:: images/palacio.jpg
+    :target: images/palacio.jpg
     :alt: Work
     :align: center
 
@@ -295,8 +267,8 @@ Mirante do Morro da Cruz
 O Morro da Cruz é um dos melhores pontos para se contemplar uma vista panorâmica de Florianópolis, permitindo uma visão privilegiada das duas baías, das pontes que ligam a ilha ao continente e  dos bairros na região continental. Seu pico se encontra a 285 m de altura e, em dias claros, pode-se avistar também grande parte dos municípios da grande Florianópolis, como Palhoça, São José e Biguaçu. O principal acesso ao mirante do Morro da Cruz é feito pela Rua do Antão (via Beira Mar Norte), por meio do bairro Agronômica.
 
 
-.. figure:: http://ndonline.com.br/uploads/2011/09/20-09-2011-16-47-25-a-cidade-vista-do-morro-da-cruz-08.07.11-foto-rosane-lima-2-.jpg
-    :target: http://ndonline.com.br/uploads/2011/09/20-09-2011-16-47-25-a-cidade-vista-do-morro-da-cruz-08.07.11-foto-rosane-lima-2-.jpg
+.. figure:: images/morro_cruz.jpg
+    :target: images/morro_cruz.jpg
     :alt: Work
     :align: center
 
@@ -328,8 +300,8 @@ A entrada custa apenas 8 reais (4 para estudantes e idosos são isentos). O aces
 
 Enfim, uma vez lá em cima, dê a volta no forte, veja o sol ou o pôr-do-sol na praia do Forte e aproveite o passeio histórico e a vista deslumbrante que você tem de lá de cima. A praia do forte conta com alguns restaurantes "de pé na areia", então também é válida para um happy hour.
 
-.. figure:: http://www.fortalezasmultimidia.com.br/santa_catarina/imagens/pontagrossag01.jpg
-    :target: http://www.fortalezasmultimidia.com.br/santa_catarina/imagens/pontagrossag01.jpg
+.. figure:: images/praia_forte.jpg
+    :target: images/praia_forte.jpg
     :alt: Work
     :align: center
 
@@ -356,8 +328,8 @@ A região conta com diversos restaurantes famosos por sua culinária como o Mari
 Além disso, vale uma visita à Igreja de Nossa Senhora das Necessidades, construída em 1757 e uma das principais feições da cultura barroca no Sul do Brasil. 
 Lojas de artesanatos e cerâmica também podem ser encontradas nas casas com formato típico açoriano, com as janelas diretamente nas calçadas. 
 
-.. figure:: https://media-cdn.tripadvisor.com/media/photo-s/09/31/9f/07/santo-antonio-de-lisboa.jpg
-    :target: https://media-cdn.tripadvisor.com/media/photo-s/09/31/9f/07/santo-antonio-de-lisboa.jpg
+.. figure:: images/santo-antonio-de-lisboa.jpg
+    :target: images/santo-antonio-de-lisboa.jpg
     :alt: Work
     :align: center
 
@@ -400,8 +372,8 @@ Ilha do Campeche
 A Ilha do Campeche é uma pequena ilha na frente da Praia do Campeche. Ela possui apenas 1 praia com areias muito claras e água cristalina e calma. Além das trilhas subaquáticas preservadas pelo IPHAN existem trilhas pela ilha para visitar os costões e as inscrições rupestres típicas da ilha de Florianópolis (outro lugar para ver essas inscrições é o costão rochoso da parte direito da praia do Santinho).
 Para chegar à ilha só de barco que tem saída pelas praias da Armação e do Campeche. O preço varia com a época do ano entre 75 e 100 reais ida e volta. É importante ficar ligado porque a ilha tem uma capacidade máxima de visitantes em um dia e, se ele for atingido, ninguém pode ir. Os barcos começam a sair por volta das 9 e voltam entre 3 e 4 da tarde. Para maiores informações consulte a Associação de Barqueiros do Campeche: 3338-3160/8424-3282/9903-8298 ou a Associação de Pescadores da Armação 3338-9470/8481-9930/8430-4097/9487-4521.
 
-.. figure:: http://romanticoschales.com.br/base/wp-content/uploads/2014/07/012.jpg
-    :target: http://romanticoschales.com.br/base/wp-content/uploads/2014/07/012.jpg
+.. figure:: images/campeche.jpg
+    :target: images/campeche.jpg
     :alt: Work
     :align: center
 
@@ -414,6 +386,21 @@ Mirantes da lagoa
 Famosa e conhecida, a Lagoa da Conceição, eleita o lugar ‘maix quirido’ de Floripa em enquete realizada pelo portal G1, também abriga um dos principais mirantes da cidade. A vista do mirante da Lagoa da Conceição é um dos principais cartões-postais de Florianópolis. O Mirante da Lagoa dá vista para a Costa Leste da Ilha, incluindo os bairros residenciais Canto da Lagoa (até o Morro do Badejo) e Lagoa da Conceição, o ‘centrinho’ comercial e cultural, a avenida das Rendeiras,
 
 Fica localizado na Rodovia Admar Gonzaga (SC-404) no topo do morro – no início da descida do morro das Sete Voltas, como é conhecido, que leva à Lagoa da Conceição. No verão o local fica lotado de turistas.
+
+------------------------------------------------------
+Costa da lagoa
+------------------------------------------------------
+
+A Costa da Lagoa é um local paradisíaco em Florianópolis, onde somente é possível chegar por trilhas ou de barco. Os barcos saem do centrinho da Lagoa da Conceição.
+
+Chegando na Costa da Lagoa há vários restaurantes com pratos típicos manezinhos, onde é possível comer na beira da Lagoa, com uma vista maravilhosa.
+
+.. figure:: images/floripa-costa-da-lagoa.jpg
+    :target: images/floripa-costa-da-lagoa.jpg
+    :alt: Work
+    :align: center
+
+Fonte: http://www.meusroteirosdeviagem.com/2015/04/costa-da-lagoa-florianopolis.html
 
 ======================================================
 Pontos Turísticos - Região Sul
