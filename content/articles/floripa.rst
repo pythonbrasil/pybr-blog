@@ -10,9 +10,11 @@ Dicas da Cidade - Florianópolis
 Oi! :D
 ===========================
 
-E aí pessoal! Aqui é a Leticia Portella, Pylady local e Manézinha de coração s2! Moro nessa cidade linda há 8 anos e juntei um pouco de informações sobre nossos principais pontos turísticos da cidade! Muitos deles vi pessoalmente e acho que vale a pena conhecer!
+E aí pessoal! Aqui é a Leticia Portella, Pylady local e Manézinha de coração s2! Moro nessa cidade linda há 8 anos e juntei algumas informações sobre nossos principais pontos turísticos da cidade! Muitos deles vi pessoalmente e acho que vale a pena conhecer!
 
 Espero que gostem da nossa ilha da magia tanto quando nós! 
+
+OBS: Esse post deve ser atualizado conforme conseguimos melhores infos! Fiquem atentos a ele!
 
 ===========================
 Rancho do Amor à Ilha (Hino de Florianópolis)
