@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-08-08T22:00:00-03:00</updated><entry><title>Evolux patrocinadora oficial da Python Brasil</title><link href="http://blog.pythonbrasil.org.br/evolux-patrocinadora-oficial-da-python-brasil.html" rel="alternate"></link><updated>2016-08-08T22:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-08-08:evolux-patrocinadora-oficial-da-python-brasil.html</id><summary type="html">&lt;p&gt;A Evolux por mais um ano será um de nossos patrocinadores oficiais. Nós estamos muito felizes, pois eles fazem parte da nossa comunidade, por isso além do apoio de sempre, ainda nos presenteiam com a presença de seus colaboradores nas conferências de Python pelo Brasil. A Evolux desenvolve uma plataforma web para operações de médio e grande porte com DAC, Discador e URA. Mais um grande caso de sucesso, utilizando os recursos da nossa linguagem favorita &amp;lt;3&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-08-13T21:30:00-03:00</updated><entry><title>Sergio Oliveira está confirmado como Keynote da Python Brasil[12]</title><link href="http://blog.pythonbrasil.org.br/sergio-oliveira-esta-confirmado-como-keynote-da-python-brasil12.html" rel="alternate"></link><updated>2016-08-13T21:30:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-08-13:sergio-oliveira-esta-confirmado-como-keynote-da-python-brasil12.html</id><summary type="html">&lt;p&gt;Faala Galera...
+Estamos fazendo esse anúncio com muita alegria.&lt;/p&gt;
+&lt;p&gt;Um de nossos gurus da comunidade Python brasileira aceitou o nosso convite para ser Keynote Speaker da Python Brasil 12.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/sergio.jpeg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/sergio.jpeg" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Sergio Oliveira Campos&lt;/p&gt;
+&lt;p&gt;O Sergio é programador e empreendedor com 11 anos de experiência com programação Web e gestão de equipes em TI. Já trabalhou para a IBM, para o Programa Interlegis do Senado Federal e mais recentemente no projeto do Novo Portal do Software Público. É membro da comunidade Python Brasil e co-fundador da Associação Python Brasil. Atualmente é CTO da Crave Food Services.&lt;/p&gt;
+&lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
+&lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
+</summary></entry><entry><title>Evolux patrocinadora oficial da Python Brasil</title><link href="http://blog.pythonbrasil.org.br/evolux-patrocinadora-oficial-da-python-brasil.html" rel="alternate"></link><updated>2016-08-08T22:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-08-08:evolux-patrocinadora-oficial-da-python-brasil.html</id><summary type="html">&lt;p&gt;A Evolux por mais um ano será um de nossos patrocinadores oficiais. Nós estamos muito felizes, pois eles fazem parte da nossa comunidade, por isso além do apoio de sempre, ainda nos presenteiam com a presença de seus colaboradores nas conferências de Python pelo Brasil. A Evolux desenvolve uma plataforma web para operações de médio e grande porte com DAC, Discador e URA. Mais um grande caso de sucesso, utilizando os recursos da nossa linguagem favorita &amp;lt;3&lt;/p&gt;
 &lt;p&gt;Colocamos aqui o nosso agradecimento :)&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/evolux.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/evolux.jpg" /&gt;&lt;/a&gt;
@@ -637,16 +647,6 @@ Mário Sérgio&lt;/p&gt;
 &lt;p&gt;Patrocinador cota Prata&lt;/p&gt;
 &lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
 &lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
-</summary></entry><entry><title>Primeiro Keynote Confirmado</title><link href="http://blog.pythonbrasil.org.br/primeiro-keynote-confirmado.html" rel="alternate"></link><updated>2016-03-01T03:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-03-01:primeiro-keynote-confirmado.html</id><summary type="html">&lt;p&gt;Faala Galera... Aqui é o Big Kahuna 0/
-Estou fazendo esse post às 02:20 da manhã com muita alegria.&lt;/p&gt;
-&lt;p&gt;Um de nossos gurus da comunidade Python brasileira aceitou o nosso convite para ser Keynote Speaker da Python Brasil 12.&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/sergio.jpeg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/sergio.jpeg" /&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;Sergio Oliveira Campos&lt;/p&gt;
-&lt;p&gt;O Sergio é programador e empreendedor com 11 anos de experiência com programação Web e gestão de equipes em TI. Já trabalhou para a IBM, para o Programa Interlegis do Senado Federal e mais recentemente no projeto do Novo Portal do Software Público. É membro da comunidade Python Brasil e co-fundador da Associação Python Brasil. Atualmente é CTO da Crave Food Services.&lt;/p&gt;
-&lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
-&lt;p&gt;#pybr12 #oktoberpython #vaiSerFoda&lt;/p&gt;
 </summary></entry><entry><title>Por que patrocinar a Python Brasil?</title><link href="http://blog.pythonbrasil.org.br/por-que-patrocinar-a-python-brasil.html" rel="alternate"></link><updated>2016-02-18T12:00:00-02:00</updated><author><name>Eric Hideki</name></author><id>tag:blog.pythonbrasil.org.br,2016-02-18:por-que-patrocinar-a-python-brasil.html</id><summary type="html">&lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/pybr11.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/pybr11.jpg" /&gt;&lt;/a&gt;
 &lt;/div&gt;
