@@ -6,7 +6,7 @@ Summary:
 
 A seguir, estão todos os tutoriais com seus respectivos links para inscrição:
 
-**Se inscreva em apenas um tutorial para cada slot de horários!!!**
+**ATENÇÃO: Não se inscrevam em tutoriais que ocorrem num mesmo horário, caso isso ocorra sua vaga não será garantida!**
 
 ## 13 DE OUTUBRO
 
