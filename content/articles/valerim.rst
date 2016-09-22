@@ -27,17 +27,17 @@ Check-in 14h// Check-out 12h
  
 **Diária Apto Superior**
 
-R$ 160,00 individual
+R$ 172,00 individual
 
-R$ 178,00 duplo
+R$ 191,00 duplo
 
 Triplo (duplo com cama extra + R$ 50,00)
  
 **Diária Apto luxo**
 
-R$ 172,00 individual
+R$ 160,00 individual
 
-R$ 191,00 duplo
+R$ 178,00 duplo
 
 Triplo (duplo com cama extra + R$ 50,00)
  
