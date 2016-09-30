@@ -1,0 +1,37 @@
+Chamada para cidade sede da Python Brasil[14]
+===============================================
+
+:author: Mário Sérgio
+:date: 2016-9-30 13:00
+:image: /images/abertura_submissoes.jpg
+:summary: 
+
+Olá Pythonistas!
+
+Gostaríamos de anunciar a chamada inicial para propostas de realização da PythonBrasil[14]!
+
+Atualmente temos como definido em 2015 que iremos sempre antecipar 2 anos o local do evento para que a organização possa ter um maior tempo disponível para fazer o melhor evento possível.
+
+Então decidimos na assembléia de 2015 que 2016 e 2017 já sairiam definidas e sairam! 
+
+Temos um grupo incrível de organizadores que está trabalhando intensamente para nos dar o evento mais incrível de Python que já tivemos no Brasil e devemos agradecer muito a todos os voluntários que fizeram e fazem dessa a melhor comunidade que existe para participar <3
+
+Assim, conforme nos aproximamos do evento, abrimos vaga para a seleção de 2018 que certamente estrelará um evento ainda melhor!!
+
+Basicamente o que precisamos é de um grupo de pessoas que estejam unidas para mostrar o porque a sua cidade deve sediar a PythonBrasil[14] em 2018 em uma apresentação de 2 a 5 minutos para os associados votarem nela.
+
+Não existe restrição de repetição por cidades onde o evento já foi realizado, todos os membros ativos da associação com poder de voto (efetivos) irão votar democraticamente nas propostas que eles desejarem. 
+
+A única restrição é a necessidade do no mínimo 1 membro do grupo precisa ser um associado efetivo para que este faça a comunicação entre a organização do evento e a diretoria da associação (para serviços específicos como geração de notas fiscais e pagamentos dos custos entre outras coisas).
+
+Então mãos a obra galera! Juntem seus pythonistas mais apaixonados e organizem-se para sediar a PythonBrasil nas suas cidades!
+
+A seleção ocorrerá na assembléia e as propostas devem ser enviadas até no máximo 14/10 ás 23:59 para a lista de associados da PythonBrasil! 
+
+Segue um modelo de proposta usado pela vitoriosa equipe de SC (https://docs.google.com/document/d/1g4YU1uIvHKrVSvL_3M6A8B8sSTZPPagpmnu9AMpr3Yg/edit?usp=sharing).
+
+Pssss.: Caso não lembre seu status, aproveite para verificar em http://associados.python.org.br/ e renovar se necessário!
+
+Vem muuuito mais por aí!!!
+
+#pybr12 #oktoberpython
