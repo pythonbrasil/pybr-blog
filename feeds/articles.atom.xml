@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-10-06T21:00:00-03:00</updated><entry><title>Necto Systems patrocinador oficial da Python Brasil</title><link href="http://blog.pythonbrasil.org.br/necto-systems-patrocinador-oficial-da-python-brasil.html" rel="alternate"></link><published>2016-10-06T21:00:00-03:00</published><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-06:necto-systems-patrocinador-oficial-da-python-brasil.html</id><summary type="html">&lt;p&gt;Mais uma empresa brasileira está patrocinando a Python Brasil. A Necto Systems está de marca nova, é uma empresa que há anos apoia a nossa conferência, mostrando um engajamento na promoção de iniciativas que contribuam para a construção de software livre. É uma grande honra tê-los com a gente &amp;lt;3&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-10-07T19:00:00-03:00</updated><entry><title>Food Trucks</title><link href="http://blog.pythonbrasil.org.br/food-trucks.html" rel="alternate"></link><published>2016-10-07T19:00:00-03:00</published><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-07:food-trucks.html</id><summary type="html">&lt;p&gt;Fala Galera 0/&lt;/p&gt;
+&lt;p&gt;Entre os dias 15 e 17 de outubro haverá o evento principal no Centro de Convenções CentroSul. Durante todos esses dias, teremos &lt;em&gt;Food Trucks&lt;/em&gt; disponíveis para todos os participantes da Python Brasil 12.&lt;/p&gt;
+&lt;p&gt;O valor das refeições irá variar entre R$ 15,00 e R$ 20,00 reais.&lt;/p&gt;
+&lt;p&gt;A seguir está a lista dos trucks:&lt;/p&gt;
+&lt;p&gt;Oliver Brown Coffee - &lt;strong&gt;Cafés especiais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La Pasta - &lt;strong&gt;Massas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Root Truck - &lt;strong&gt;Hamburger e saladas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Churros Mania - &lt;strong&gt;Churros&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Biz - &lt;strong&gt;Sanduiches e risotos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Açailandia - &lt;strong&gt;Acai e pratos saudaveis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Monareta - &lt;strong&gt;Pizzas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kombeer - &lt;strong&gt;Chopp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O único que não possui opções veganas é o Churros Mania, todos os outros oferecem opções veganas e vegetarianas :)&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/foodTruck.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/foodTruck.jpg" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Food Truck&lt;/p&gt;
+&lt;p&gt;Att,&lt;/p&gt;
+&lt;p&gt;Organização Python Brasil 12&lt;/p&gt;
+&lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
+</summary></entry><entry><title>Necto Systems patrocinador oficial da Python Brasil</title><link href="http://blog.pythonbrasil.org.br/necto-systems-patrocinador-oficial-da-python-brasil.html" rel="alternate"></link><published>2016-10-06T21:00:00-03:00</published><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-06:necto-systems-patrocinador-oficial-da-python-brasil.html</id><summary type="html">&lt;p&gt;Mais uma empresa brasileira está patrocinando a Python Brasil. A Necto Systems está de marca nova, é uma empresa que há anos apoia a nossa conferência, mostrando um engajamento na promoção de iniciativas que contribuam para a construção de software livre. É uma grande honra tê-los com a gente &amp;lt;3&lt;/p&gt;
 &lt;p&gt;Colocamos aqui o nosso agradecimento :)&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/Necto.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/Necto.jpg" /&gt;&lt;/a&gt;
