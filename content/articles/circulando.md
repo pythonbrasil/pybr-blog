@@ -44,7 +44,10 @@ Para quem vem do centro, pode pegar essa linha direta do TICEN (terminal do Cent
 
 Para quem vem do Norte, pode usar a linha:
 
-* TODO
+* [TICAN - TICEN via Mauro Ramos](http://www.consorciofenix.com.br/horarios/tican-ticen-via-mauro-ramos,221)
+* [TICAN - TITRI via UFSC](http://www.consorciofenix.com.br/horarios/tican-titri-via-ufsc,233)
+
+PS: Não esqueçam de descer no primeiro terminal e ir andando até o [CESUSC](https://www.google.com.br/maps/dir/Terminal+Integrado+Santo+Ant%C3%B4nio+de+Lisboa+-+Rodovia+Jos%C3%A9+Carlos+Daux+-+Santo+Antonio+de+Lisboa,+Florian%C3%B3polis+-+SC,+88032-005/Faculdade+Cesusc+-+SC-401,+9301+-+Santo+Antonio+de+Lisboa,+Florian%C3%B3polis+-+SC,+88050-001/@-27.5009635,-48.5167334,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x952746f4be842773:0x9d0d3ffbffed884c!2m2!1d-48.5146855!2d-27.5016921!1m5!1m1!1s0x9527468b52090801:0xb067ed420bbae02b!2m2!1d-48.514595!2d-27.500146!3e2)
 
 Para quem vem do Sul (aeroporto) ou da Lagoa:
 
@@ -55,7 +58,9 @@ Para quem vem do Sul (aeroporto) ou da Lagoa:
 
 Para quem vem do Norte:
 
-* TODO
+* [TICAN - TICEN Direto](http://www.consorciofenix.com.br/horarios/tican-ticen-direto,210)
+
+PS: Descer no terminal e ir andando até o [Centro Sul](https://www.google.com.br/maps/dir/TICEN+-+Centro,+Florian%C3%B3polis+-+SC/Centro+Sul+-+Avenida+Governador+Gustavo+Richard,+850+-+Centro,+Florian%C3%B3polis+-+SC,+88010-290/@-27.6008146,-48.5551822,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x95273826810147cf:0xca1f5b2a5b3ec6a4!2m2!1d-48.5538568!2d-27.5993265!1m5!1m1!1s0x95273827276e5659:0xade913b836a1f248!2m2!1d-48.5521303!2d-27.6019947!3e2)
 
 Para quem vem do Sul:
 
@@ -71,7 +76,10 @@ Para quem vem da Lagoa:
 
 Para quem vem do Norte:
 
-* TODO
+* [TICAN - TICEN via Mauro Ramos](http://www.consorciofenix.com.br/horarios/tican-ticen-via-mauro-ramos,221)
+* [TICAN - TITRI via UFSC](http://www.consorciofenix.com.br/horarios/tican-titri-via-ufsc,233)
+
+PS: Pedir para descer no SEBRAE(elevado) e ir andando até o [CELTA](https://www.google.com.br/maps/dir/-27.5714972,-48.5124499/Funda%C3%A7%C3%A3o+CERTI+%2F+Tecn%C3%B3polis+-+km+01+Parque+Tecnol%C3%B3gico+Alfa+000,+SC-401+-+Jo%C3%A3o+Paulo,+Florian%C3%B3polis+-+State+of+Santa+Catarina/@-27.5713171,-48.5116049,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x9527388de37ec0e5:0xa173b8c48320510f!2m2!1d-48.5090549!2d-27.5711679!3e2)
 
 Para quem vem do Sul:
 
