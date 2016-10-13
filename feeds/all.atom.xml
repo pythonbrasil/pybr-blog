@@ -1,5 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/all.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-10-07T19:00:00-03:00</updated><entry><title>Food Trucks</title><link href="http://blog.pythonbrasil.org.br/food-trucks.html" rel="alternate"></link><updated>2016-10-07T19:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-07:food-trucks.html</id><summary type="html">&lt;p&gt;Fala Galera 0/&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/all.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-10-10T20:00:00-03:00</updated><entry><title>Circulando em Floripa</title><link href="http://blog.pythonbrasil.org.br/circulando-em-floripa.html" rel="alternate"></link><updated>2016-10-10T20:00:00-03:00</updated><author><name>Talita e Elias</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-10:circulando-em-floripa.html</id><summary type="html">&lt;h2&gt;Está chegando!&lt;/h2&gt;
+&lt;p&gt;Nossa tão esperada Python Brasil começa essa semana! Woo-hoo! =)&lt;/p&gt;
+&lt;p&gt;Enquanto vocês fazem as malas e se preparam para vir a Florianópolis,
+resolvemos escrever algumas dicas para como se deslocar na ilha e nos arredores.&lt;/p&gt;
+&lt;p&gt;Caso esqueçamos de cobrir alguma coisa, fique à vontade para perguntar &lt;a href="https://telegram.me/joinchat/AG9QCDwzQzvM4tx8Chp-nQ"&gt;no
+Telegram&lt;/a&gt; ou &lt;a href="https://groups.google.com/forum/#!forum/python-brasil"&gt;na lista de
+e-mail&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Transporte público&lt;/h2&gt;
+&lt;p&gt;Florianópolis possui uma rede de ônibus controlada pelo &lt;a href="http://www.consorciofenix.com.br"&gt;Consórcio Fênix&lt;/a&gt;.
+Infelizmente, as informações das linhas não estão atualizadas no &lt;a href="https://maps.google.com"&gt;Google
+Maps&lt;/a&gt;, então para consultar os trajetos, recomendamos
+usar o site do &lt;a href="http://www.consorciofenix.com.br"&gt;Consórcio Fênix&lt;/a&gt;, o site da
+&lt;a href="http://www.mobfloripa.com.br/onibus.php"&gt;MobFloripa&lt;/a&gt; que também tem algumas
+ferramentas de busca e também a sua rede de amigos!&lt;/p&gt;
+&lt;p&gt;Você pode também &lt;a href="http://www.consorciofenix.com.br/app-qrcode"&gt;instalar o aplicativo&lt;/a&gt; que permite
+ver e favoritar as linhas e horários, mesmo offline.&lt;/p&gt;
+&lt;p&gt;Vamos listar aqui as principais linhas de ônibus para chegar em cada local do evento:&lt;/p&gt;
+&lt;h3&gt;CESUSC (local dos tutoriais, dias 13 e 14)&lt;/h3&gt;
+&lt;p&gt;Para chegar no &lt;a href="http://www.cesusc.edu.br/portal/central-de-relacionamento/localizacao"&gt;CESUSC&lt;/a&gt;,
+você vai querer descer no &lt;a href="https://goo.gl/maps/WAUYxQcSeN82"&gt;TISAN, o Terminal de Santo Antônio&lt;/a&gt;.
+A Faculdade CESUSC fica ao lado.&lt;/p&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1769.496360135874!2d-48.5159930949823!3d-27.5006018548915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9527468b52090801%3A0xb067ed420bbae02b!2sFaculdade+Cesusc!5e0!3m2!1sen!2sus!4v1476285384856" width="400" height="300" frameborder="0" style="border:0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Para quem vem do Norte&lt;/h4&gt;
+&lt;p&gt;Pegar uma dessas linhas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-ticen-via-mauro-ramos,221"&gt;TICAN - TICEN via Mauro Ramos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-titri-via-ufsc,233"&gt;TICAN - TITRI via UFSC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS: Não esqueçam de descer no primeiro terminal (TISAN) e ir andando até o &lt;a href="https://www.google.com.br/maps/dir/Terminal+Integrado+Santo+Ant%C3%B4nio+de+Lisboa+-+Rodovia+Jos%C3%A9+Carlos+Daux+-+Santo+Antonio+de+Lisboa,+Florian%C3%B3polis+-+SC,+88032-005/Faculdade+Cesusc+-+SC-401,+9301+-+Santo+Antonio+de+Lisboa,+Florian%C3%B3polis+-+SC,+88050-001/@-27.5009635,-48.5167334,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x952746f4be842773:0x9d0d3ffbffed884c!2m2!1d-48.5146855!2d-27.5016921!1m5!1m1!1s0x9527468b52090801:0xb067ed420bbae02b!2m2!1d-48.514595!2d-27.500146!3e2"&gt;CESUSC&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Para quem vem do Sul (aeroporto):&lt;/h4&gt;
+&lt;p&gt;Primeiro, se dirigir ao TICEN usando uma dessas linhas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste,183"&gt;Corredor Sudoeste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste-semidireto,186"&gt;Corredor Sudoeste - Semidireto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Em seguida, usar o caminho para quem vem do centro indicado abaixo.&lt;/p&gt;
+&lt;h4&gt;Para quem vem do centro&lt;/h4&gt;
+&lt;p&gt;Pegar essa linha direta do TICEN (terminal do Centro) para o TISAN:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tisan-ticen-via-beira-mar,332"&gt;TITRI - TISAN via Beira Mar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Centro Sul (local das palestras, dias 15 - 17)&lt;/h3&gt;
+&lt;p&gt;O Centro Sul fica à 300m do TICEN (Terminal do Centro). Então, basta pegar uma
+linha que vá para o TICEN e seguir a pé para o Centro Sul, conforme mapa:&lt;/p&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3535.8128046070487!2d-48.555320084678065!3d-27.599332682836714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e2!4m3!3m2!1d-27.597404899999997!2d-48.553864999999995!4m3!3m2!1d-27.601581399999997!2d-48.5516618!5e0!3m2!1sen!2sus!4v1476283877621" width="550" height="400" frameborder="0" style="border:0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Para quem vem do Norte:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-ticen-direto,210"&gt;TICAN - TICEN Direto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Para quem vem do Sul:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste,183"&gt;Corredor Sudoeste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste-semidireto,186"&gt;Corredor Sudoeste - Semidireto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Para quem vem da Trindade:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/volta-ao-morro-carvoeira-sul,136"&gt;Volta ao Morro Carvoeira Sul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/volta-ao-morro-pantanal-sul,138"&gt;Volta ao Morro Pantanal Sul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/volta-ao-morro-carvoeira-norte,135"&gt;Volta ao Morro Carvoeira Norte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/volta-ao-morro-pantanal-norte,137"&gt;Volta ao Morro Pantanal Norte&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Celta - Parque Tecnológico Alfa (local das Sprints, dia 18)&lt;/h3&gt;
+&lt;p&gt;O &lt;a href="http://www.celta.org.br/"&gt;Celta&lt;/a&gt; fica no Parque Tecnológico Alfa, no começo da SC 401:&lt;/p&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.722813417627!2d-48.511435284940845!3d-27.571111782848547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x219b85f338e48eba!2sCELTA!5e0!3m2!1sen!2sus!4v1476285007222" width="400" height="300" frameborder="0" style="border:0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Para quem vem do Norte:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-ticen-via-mauro-ramos,221"&gt;TICAN - TICEN via Mauro Ramos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-titri-via-ufsc,233"&gt;TICAN - TITRI via UFSC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pedir para descer no SEBRAE(elevado) e ir andando até o &lt;a href="https://www.google.com.br/maps/dir/-27.5714972,-48.5124499/Funda%C3%A7%C3%A3o+CERTI+%2F+Tecn%C3%B3polis+-+km+01+Parque+Tecnol%C3%B3gico+Alfa+000,+SC-401+-+Jo%C3%A3o+Paulo,+Florian%C3%B3polis+-+State+of+Santa+Catarina/@-27.5713171,-48.5116049,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x9527388de37ec0e5:0xa173b8c48320510f!2m2!1d-48.5090549!2d-27.5711679!3e2"&gt;CELTA&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Para quem vem do Sul:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Primeiro, se dirigir ao TICEN via:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste,183"&gt;Corredor Sudoeste&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/corredor-sudoeste-semidireto,186"&gt;Corredor Sudoeste - Semidireto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Em seguida, usar o caminho para quem vem do centro indicado abaixo.&lt;/p&gt;
+&lt;h4&gt;Para quem vem do Centro:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tican-ticen-via-mauro-ramos,221"&gt;TICAN - TICEN via Mauro Ramos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pedir para descer no SEBRAE (elevado) e ir andando até o &lt;a href="https://www.google.com.br/maps/dir/-27.5714972,-48.5124499/Funda%C3%A7%C3%A3o+CERTI+%2F+Tecn%C3%B3polis+-+km+01+Parque+Tecnol%C3%B3gico+Alfa+000,+SC-401+-+Jo%C3%A3o+Paulo,+Florian%C3%B3polis+-+State+of+Santa+Catarina/@-27.5713171,-48.5116049,18z/data=!4m9!4m8!1m0!1m5!1m1!1s0x9527388de37ec0e5:0xa173b8c48320510f!2m2!1d-48.5090549!2d-27.5711679!3e2"&gt;CELTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alternativamente, pode ir até o TITRI e pegar a linha Tecnópolis (poucos horários):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.consorciofenix.com.br/horarios/tecnopolis,182"&gt;Tecnópolis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Uber&lt;/h2&gt;
+&lt;p&gt;Florianópolis também tem &lt;a href="https://www.uber.com/pt/cities/florianopolis/"&gt;Uber&lt;/a&gt;,
+uma alternativa ao serviço de táxi que em geral sai mais em conta. Note que você precisa
+cadastrar com um cartão de crédito.&lt;/p&gt;</summary></entry><entry><title>Food Trucks</title><link href="http://blog.pythonbrasil.org.br/food-trucks.html" rel="alternate"></link><updated>2016-10-07T19:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-10-07:food-trucks.html</id><summary type="html">&lt;p&gt;Fala Galera 0/&lt;/p&gt;
 &lt;p&gt;Entre os dias 15 e 17 de outubro haverá o evento principal no Centro de Convenções CentroSul. Durante todos esses dias, teremos &lt;em&gt;Food Trucks&lt;/em&gt; disponíveis para todos os participantes da Python Brasil 12.&lt;/p&gt;
 &lt;p&gt;O valor das refeições irá variar entre R$ 15,00 e R$ 20,00 reais.&lt;/p&gt;
 &lt;p&gt;A seguir está a lista dos trucks:&lt;/p&gt;
@@ -60,7 +156,37 @@
 &lt;p&gt;Pssss.: Caso não lembre seu status, aproveite para verificar em &lt;a class="reference external" href="http://associados.python.org.br/"&gt;http://associados.python.org.br/&lt;/a&gt; e renovar se necessário!&lt;/p&gt;
 &lt;p&gt;Vem muuuito mais por aí!!!&lt;/p&gt;
 &lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
-</summary></entry><entry><title>Hotel Valerim Plaza</title><link href="http://blog.pythonbrasil.org.br/hotel-valerim-plaza.html" rel="alternate"></link><updated>2016-09-21T21:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-09-21:hotel-valerim-plaza.html</id><summary type="html">&lt;p&gt;Olá amigos :)&lt;/p&gt;
+</summary></entry><entry><title>Se inscreva para os tutoriais aqui!</title><link href="http://blog.pythonbrasil.org.br/se-inscreva-para-os-tutoriais-aqui.html" rel="alternate"></link><updated>2016-09-21T22:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-09-21:se-inscreva-para-os-tutoriais-aqui.html</id><summary type="html">&lt;p&gt;A seguir, estão todos os tutoriais com seus respectivos links para inscrição:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ATENÇÃO: Não se inscrevam em tutoriais que ocorrem num mesmo horário, caso isso ocorra sua vaga não será garantida!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;13 DE OUTUBRO&lt;/h2&gt;
+&lt;h3&gt;Matutino (8h) e Vespertino (14h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Curso Básico de Python:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-curso-basico-de-python-tickets-27749859577"&gt;eventbrite.com.br/e/pybr12-curso-basico-de-python-tickets-27749859577&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Odoo - Open Source ERP - Como instalar e desenvolver aplicações empresariais:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-odoo-open-source-erp-como-instalar-e-desenvolver-aplicacoes-empresariais-tickets-27750120357"&gt;eventbrite.com.br/e/pybr12-odoo-open-source-erp-como-instalar-e-desenvolver-aplicacoes-empresariais-tickets-27750120357&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Arquitetura, Especificação e Implementação de APIs REST:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-arquitetura-especificacao-e-implementacao-de-apis-rest-tickets-27749622869"&gt;eventbrite.com.br/e/pybr12-arquitetura-especificacao-e-implementacao-de-apis-rest-tickets-27749622869&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Matutino (8h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;wolfcrypt: embalando segredos com Python:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-wolfcrypt-embalando-segredos-com-python-tickets-27741082324"&gt;eventbrite.com.br/e/pybr12-wolfcrypt-embalando-segredos-com-python-tickets-27741082324&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lógica de programação em Python:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-logica-de-programacao-em-python-tickets-27791436936"&gt;eventbrite.com.br/e/pybr12-logica-de-programacao-em-python-tickets-27791436936&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elm: chega de dor de cabeça com o frontend:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-elm-chega-de-dor-de-cabeca-com-o-frontend-tickets-27749580743"&gt;eventbrite.com.br/e/pybr12-elm-chega-de-dor-de-cabeca-com-o-frontend-tickets-27749580743&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hackeando Dados Públicos com Python:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-hackeando-dados-publicos-com-python-tickets-27749919757"&gt;eventbrite.com.br/e/pybr12-hackeando-dados-publicos-com-python-tickets-27749919757&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Vespertino (14h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Desenvolvimento de Web Scrapers com Scrapy:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-desenvolvimento-de-web-scrapers-com-scrapy-tickets-27750046135"&gt;eventbrite.com.br/e/pybr12-desenvolvimento-de-web-scrapers-com-scrapy-tickets-27750046135&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Python Orientado a Objetos:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-python-orientado-a-objetos-tickets-27750140417"&gt;eventbrite.com.br/e/pybr12-python-orientado-a-objetos-tickets-27750140417&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introdução - Apache Cassandra:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-introducao-apache-cassandra-tickets-27750072213"&gt;eventbrite.com.br/e/pybr12-introducao-apache-cassandra-tickets-27750072213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unsupervised Learning with Python:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-unsupervised-learning-with-python-tickets-27750061180"&gt;eventbrite.com.br/e/pybr12-unsupervised-learning-with-python-tickets-27750061180&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;14 DE OUTUBRO&lt;/h2&gt;
+&lt;h3&gt;Matutino (8h) e Vespertino (14h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;pyspark e computação distribuida:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-pyspark-e-computacao-distribuida-tickets-27750030087"&gt;eventbrite.com.br/e/pybr12-pyspark-e-computacao-distribuida-tickets-27750030087&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Matutino (8h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning para Hackers:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-machine-learning-para-hackers-tickets-27749680040"&gt;eventbrite.com.br/e/pybr12-machine-learning-para-hackers-tickets-27749680040&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tutorial de Git:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-tutorial-de-git-tickets-27741056246"&gt;eventbrite.com.br/e/pybr12-tutorial-de-git-tickets-27741056246&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Vespertino (14h)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;rows: extraindo, normalizando e salvando dados tabulares:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-rows-extraindo-normalizando-e-salvando-dados-tabulares-tickets-27750017048"&gt;eventbrite.com.br/e/pybr12-rows-extraindo-normalizando-e-salvando-dados-tabulares-tickets-27750017048&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FlapPyLadies: Crie seu primeiro jogo em Python!:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-flappyladies-crie-seu-primeiro-jogo-em-python-tickets-27749905715"&gt;eventbrite.com.br/e/pybr12-flappyladies-crie-seu-primeiro-jogo-em-python-tickets-27749905715&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Qual é a desse tal de Kanban, e como ele pode te ajudar a ser ágil de verdade:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-workshop-qual-e-a-desse-tal-de-kanban-e-como-ele-pode-te-ajudar-a-ser-agil-de-verdade-tickets-27750133396"&gt;eventbrite.com.br/e/pybr12-workshop-qual-e-a-desse-tal-de-kanban-e-como-ele-pode-te-ajudar-a-ser-agil-de-verdade-tickets-27750133396&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Realização de um Coding Dojo no formato Randori:&lt;/strong&gt; &lt;a href="https://www.eventbrite.com.br/e/pybr12-realizacao-de-um-coding-dojo-no-formato-randori-tickets-27749877631"&gt;eventbrite.com.br/e/pybr12-realizacao-de-um-coding-dojo-no-formato-randori-tickets-27749877631&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Att,&lt;/p&gt;
+&lt;p&gt;Organização Python Brasil 12&lt;/p&gt;
+&lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;</summary></entry><entry><title>Hotel Valerim Plaza</title><link href="http://blog.pythonbrasil.org.br/hotel-valerim-plaza.html" rel="alternate"></link><updated>2016-09-21T21:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-09-21:hotel-valerim-plaza.html</id><summary type="html">&lt;p&gt;Olá amigos :)&lt;/p&gt;
 &lt;p&gt;O Hotel Valerim Plaza é um parceiro da conferência Python Brasil 12, na cidade de Florianópolis.&lt;/p&gt;
 &lt;p&gt;Haverá uma &lt;strong&gt;tarifa especial para participantes evento Python Brasil 2016&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Serviços&lt;/strong&gt;:&lt;/p&gt;
