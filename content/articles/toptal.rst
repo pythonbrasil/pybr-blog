@@ -1,4 +1,4 @@
-TopTal patrocinadora oficial da Python Brasil 12
+Toptal patrocinadora oficial da Python Brasil 12
 =====================================================
 
 :author: Mário Sérgio
@@ -6,7 +6,7 @@ TopTal patrocinadora oficial da Python Brasil 12
 :image: /images/toptal.jpg
 :summary: 
 
-A TopTal será por mais uma vez, patrocinadora da Python Brasil. Eles entraram para o nosso time de apoiadores, na décima segunda edição do maior evento de Python no Brasil. A TopTal é reconhecida por conectar profissionais independentes em todo o mundo. É realmente uma honra tê-los em nossa conferência. 
+A Toptal será por mais uma vez, patrocinadora da Python Brasil. Eles entraram para o nosso time de apoiadores, na décima segunda edição do maior evento de Python no Brasil. A Toptal é reconhecida por conectar profissionais independentes em todo o mundo. É realmente uma honra tê-los em nossa conferência. 
 
 Colocamos aqui o nosso agradecimento :)
 
