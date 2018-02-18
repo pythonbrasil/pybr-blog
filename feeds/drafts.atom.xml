@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/drafts.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-06-15T21:00:00-03:00</updated><entry><title>#Partiu Oktoberfest Blumenau</title><link href="http://blog.pythonbrasil.org.br/partiu-oktoberfest-blumenau.html" rel="alternate"></link><updated>2016-06-15T21:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-06-15:partiu-oktoberfest-blumenau.html</id><summary type="html">&lt;p&gt;Faala Galera...&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python Brasil 12 - drafts</title><link href="http://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="http://blog.pythonbrasil.org.br/feeds/drafts.atom.xml" rel="self"></link><id>http://blog.pythonbrasil.org.br/</id><updated>2016-06-15T21:00:00-03:00</updated><entry><title>#Partiu Oktoberfest Blumenau</title><link href="http://blog.pythonbrasil.org.br/partiu-oktoberfest-blumenau.html" rel="alternate"></link><published>2016-06-15T21:00:00-03:00</published><updated>2016-06-15T21:00:00-03:00</updated><author><name>Mário Sérgio</name></author><id>tag:blog.pythonbrasil.org.br,2016-06-15:/partiu-oktoberfest-blumenau.html</id><summary type="html"></summary><content type="html">&lt;p&gt;Faala Galera...&lt;/p&gt;
 &lt;p&gt;Como foi definido em SJC iremos a OktoberFest Blumenau, isso foi induzido por um slide supostamente inserido &amp;quot;sem querer&amp;quot; na proposta para cidade sede.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://blog.pythonbrasil.org.br/images/oktoberfest.jpg"&gt;&lt;img alt="Work" src="http://blog.pythonbrasil.org.br/images/oktoberfest.jpg" /&gt;&lt;/a&gt;
@@ -20,4 +20,4 @@
 &lt;p&gt;Att,&lt;/p&gt;
 &lt;p&gt;Organização Python Brasil 12&lt;/p&gt;
 &lt;p&gt;#pybr12 #oktoberpython&lt;/p&gt;
-</summary></entry></feed>
+</content></entry></feed>
