@@ -1,6 +1,6 @@
 # pythonbrasilblog
 
-Blog oficial da Python Brasil 12 - [http://blog.pythonbrasil.org.br/](http://blog.pythonbrasil.org.br/)
+Blog oficial da Python Brasil - [https://blog.pythonbrasil.org.br/](https://blog.pythonbrasil.org.br/)
 
 Esse blog é feito através do gerador de páginas estático do Python, o Pelican.
 
@@ -10,9 +10,9 @@ Caso queira colaborar, basta seguir esses passos:
 
 Crie um [virtualenv](https://virtualenv.readthedocs.org/en/latest/) com o nome que desejar, acesse a pasta e ative o virtualenv (Considerando os comandos em sistemas Linux e OS X):
 
-> virtualenv project-name  
+> virtualenv project-name
 
-> cd project-name  
+> cd project-name
 
 > source bin/activate
 
@@ -28,7 +28,7 @@ Pronto! Você já está na pasta do projeto! Agora vamos instalar os programas n
 
 Legal, agora já instalei todos os programas, vamos fazê-lo rodar em nosso computador?
 
-> make html  
+> make html
 
 > make serve
 

@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+
 from __future__ import unicode_literals
 
-AUTHOR = u'M\xe1rio S\xe9rgio'
-SITENAME = u'Python Brasil 12'
-SITEURL = ''
+AUTHOR = u'Python Brasil'
+SITENAME = u'Python Brasil Blog'
+SITEURL = 'https://blog.pythonbrasil.org.br'
 
 PATH = 'content'
 
@@ -20,20 +21,25 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images']
+EXTRA_PATH_METADATA = {
+}
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('pythonbrasil.org.br', 'https://pythonbrasil.org.br'),
+    ('python.org.br', 'https://python.org.br'),
+    ('facebook', 'https://www.facebook.com/pythonbrasil'),
+    ('twitter', 'https://twitter.com/pythonbrasil'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('You can add links in your config file', '#'),
+    ('Another social link', '#'),
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
