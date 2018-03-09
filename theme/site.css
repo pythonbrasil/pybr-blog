@@ -2,24 +2,31 @@
 body {
   color: #111;
   font-family: 'Roboto', sans-serif;
-  margin: 35px;
 }
 
 a { color: #111; }
 a:hover { color: #0074D9; }
 
 header {
-  font-size: 18px;
   margin-bottom: 40px;
 }
+
+h1 {
+  text-align: center;
+  font-size: 3.6rem;
+}
+
+h2 {
+  font-size: 2.6rem;
+}
+
 header .blog {
   color: #0074D9;
-  font-size: 50px;
 }
+
 header .blog strong { font-weight: 400; }
 header .blog span { color: #FFDC00; }
 header p {
-  font-size: 24px;
   margin: 0;
 }
 
@@ -28,7 +35,6 @@ time {
   font-size: 1.5rem;
 }
 
-ul { font-size: 18px; }
 ul li {
   list-style: none;
   margin-bottom: 0;
@@ -48,3 +54,28 @@ ul li a:hover,
 .article h4 p { margin-bottom: 0; }
 .article time { color: #aaa; }
 .article #disqus_thread { margin-top: 25px; }
+
+@media (min-width: 40.0rem) {
+  body {
+    margin: 35px;
+  }
+
+  h1 {
+    text-align: left;
+    font-size: 4.6rem;
+  }
+
+  h2 {
+    font-size: 3.6rem;
+  }
+
+  .row .column.column-main {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+
+  .row .column.column-links {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
