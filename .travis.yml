@@ -6,4 +6,5 @@ branches:
     - master
 install:
   - pip install pelican
+  - pip install ghp-import
 script: make github
