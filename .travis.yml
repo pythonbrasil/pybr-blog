@@ -1,0 +1,9 @@
+language: python
+python:
+  - 3.6
+branches:
+  only:
+    - master
+install:
+  - pip install pelican
+script: make github
