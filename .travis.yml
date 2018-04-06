@@ -10,6 +10,7 @@ before_install:
   - echo "Host github.com" >> ~/.ssh/config
   - echo "  IdentityFile ~/.ssh/publish-key" >> ~/.ssh/config
   - git remote set-url origin git@github.com:pythonbrasil/pythonbrasilblog.git
+  - git fetch origin -f gh-pages:gh-pages
 install:
   - pip install pelican
   - pip install ghp-import
