@@ -10,8 +10,8 @@ A Python Software Foundation (PSF) é por mais uma vez, patrocinadora oficial da
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/psf.jpg
-    :target: {filename}/images/psf.jpg
+.. figure:: {static}/images/psf.jpg
+    :target: {static}/images/psf.jpg
     :alt: Work
     :align: center
 

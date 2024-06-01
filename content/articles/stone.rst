@@ -10,8 +10,8 @@ Estamos muito felizes em anunciar a Stone como um de nossos patrocinadores. Mais
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/stone.jpg
-    :target: {filename}/images/stone.jpg
+.. figure:: {static}/images/stone.jpg
+    :target: {static}/images/stone.jpg
     :alt: Work
     :align: center
 

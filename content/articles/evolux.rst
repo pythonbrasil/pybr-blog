@@ -10,8 +10,8 @@ A Evolux por mais um ano será um de nossos patrocinadores oficiais. Nós estamo
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/evolux.jpg
-    :target: {filename}/images/evolux.jpg
+.. figure:: {static}/images/evolux.jpg
+    :target: {static}/images/evolux.jpg
     :alt: Work
     :align: center
 

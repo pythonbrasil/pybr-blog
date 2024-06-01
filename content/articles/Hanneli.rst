@@ -10,8 +10,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 Está confirmada a Hanneli Tavante como nossa Keynote da Python Brasil 12
 
-.. figure:: {filename}/images/Hanneli.jpg
-    :target: {filename}/images/Hanneli.jpg
+.. figure:: {static}/images/Hanneli.jpg
+    :target: {static}/images/Hanneli.jpg
     :alt: Work
     :align: center
 

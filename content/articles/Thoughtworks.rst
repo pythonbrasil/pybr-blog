@@ -10,8 +10,8 @@ Mais uma empresa brasileira está patrocinando a Python Brasil. A Necto Systems 
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/Necto.jpg
-    :target: {filename}/images/Necto.jpg
+.. figure:: {static}/images/Necto.jpg
+    :target: {static}/images/Necto.jpg
     :alt: Work
     :align: center
 

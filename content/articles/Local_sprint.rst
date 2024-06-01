@@ -12,8 +12,8 @@ Está confirmado o local para o nosso característico dia de Sprints. Por meio d
 
 Teremos à disposição a Cobertura inteira do prédio, onde também está localizado o bar do Biezza, com uma excelente vista para a baía de Florianópolis.
 
-.. figure:: {filename}/images/celta.jpg
-    :target: {filename}/images/celta.jpg
+.. figure:: {static}/images/celta.jpg
+    :target: {static}/images/celta.jpg
     :alt: Work
     :align: center
 

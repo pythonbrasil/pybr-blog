@@ -6,8 +6,8 @@ Por que patrocinar a Python Brasil?
 :image: /images/pybr11.jpg
 :summary: 
 
-.. figure:: {filename}/images/pybr11.jpg
-    :target: {filename}/images/pybr11.jpg
+.. figure:: {static}/images/pybr11.jpg
+    :target: {static}/images/pybr11.jpg
     :alt: Work
     :align: center
 

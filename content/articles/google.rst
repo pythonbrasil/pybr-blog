@@ -12,8 +12,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/google.jpg
-    :target: {filename}/images/google.jpg
+.. figure:: {static}/images/google.jpg
+    :target: {static}/images/google.jpg
     :alt: Work
     :align: center
 

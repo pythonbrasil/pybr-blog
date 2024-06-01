@@ -11,8 +11,8 @@ Estamos fazendo esse anúncio com muita alegria.
 
 Um de nossos gurus da comunidade Python brasileira aceitou o nosso convite para ser Keynote Speaker da Python Brasil 12.
 
-.. figure:: {filename}/images/sergio.jpeg
-    :target: {filename}/images/sergio.jpeg
+.. figure:: {static}/images/sergio.jpeg
+    :target: {static}/images/sergio.jpeg
     :alt: Work
     :align: center
 

@@ -12,8 +12,8 @@ Escrevemos um post sobre como foi viver a Python Brasil[12]
 
 Segue o link do post: https://medium.com/@sergiomarioq/pessoas-tecnologia-ca688e139e9e
 
-.. figure:: {filename}/images/foto_oficial.jpg
-    :target: {filename}/images/foto_oficial.jpg
+.. figure:: {static}/images/foto_oficial.jpg
+    :target: {static}/images/foto_oficial.jpg
     :alt: Work
     :align: center
 

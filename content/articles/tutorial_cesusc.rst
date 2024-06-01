@@ -10,8 +10,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 É com muita alegria que anunciamos o local dos tutoriais da Python Brasil 12. A faculdade Cesusc será a nossa primeira parada na conferência. Foi nesse mesmo local que nasceu o nosso grupo de PyLadies em Floripa <3  
 
-.. figure:: {filename}/images/cesusc.jpg
-    :target: {filename}/images/cesusc.jpg
+.. figure:: {static}/images/cesusc.jpg
+    :target: {static}/images/cesusc.jpg
     :alt: Work
     :align: center
 

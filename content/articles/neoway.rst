@@ -12,8 +12,8 @@ Hoje anunciamos a Neoway como patrocinadora oficial da Python Brasil 12. O posic
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/neoway.jpg
-    :target: {filename}/images/neoway.jpg
+.. figure:: {static}/images/neoway.jpg
+    :target: {static}/images/neoway.jpg
     :alt: Work
     :align: center
 

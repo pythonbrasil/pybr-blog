@@ -8,13 +8,6 @@ Caso queira colaborar, basta seguir esses passos:
 
 ### Processo de instalação:
 
-Crie um [virtualenv](https://virtualenv.readthedocs.org/en/latest/) com o nome que desejar, acesse a pasta e ative o virtualenv (Considerando os comandos em sistemas Linux e OS X):
-
-> virtualenv project-name
-
-> cd project-name
-
-> source bin/activate
 
 Provavelmente irá aparecer em seu terminal algo como *(project-name)$*, agora vamos clonar o repositório do projeto:
 
@@ -22,13 +15,17 @@ Provavelmente irá aparecer em seu terminal algo como *(project-name)$*, agora v
 
 > cd pythonbrasilblog
 
-Pronto! Você já está na pasta do projeto! Agora vamos instalar os programas necessários (Certifique-se que o virtualenv está ativado):
+> git submodule update --init --recursive
 
-> pip install pelican Markdown
+Pronto! Você já está na pasta do projeto! Agora vamos instalar os programas necessários. Crie um [venv](https://docs.python.org/3/library/venv.html) com o nome que desejar, acesse a pasta e ative o virtualenv (Considerando os comandos em sistemas Linux e OS X):
+
+> python3 -m venv venv
+
+> source venv/bin/activate
+
+> pip install -r requirements.txt
 
 Legal, agora já instalei todos os programas, vamos fazê-lo rodar em nosso computador?
-
-> make html
 
 > make serve
 

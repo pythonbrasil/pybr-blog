@@ -12,8 +12,8 @@ Esperamos que todos encontrem bastante oportunidades e parceiros durante a Pytho
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/apoio_floripa.jpg
-    :target: {filename}/images/apoio_floripa.jpg
+.. figure:: {static}/images/apoio_floripa.jpg
+    :target: {static}/images/apoio_floripa.jpg
     :alt: Work
     :align: center
 

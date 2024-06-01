@@ -32,8 +32,8 @@ Kombeer - **Chopp**
 
 O único que não possui opções veganas é o Churros Mania, todos os outros oferecem opções veganas e vegetarianas :)
 
-.. figure:: {filename}/images/foodTruck.jpg
-    :target: {filename}/images/foodTruck.jpg
+.. figure:: {static}/images/foodTruck.jpg
+    :target: {static}/images/foodTruck.jpg
     :alt: Work
     :align: center
 

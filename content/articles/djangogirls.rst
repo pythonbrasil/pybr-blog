@@ -14,8 +14,8 @@ Por conta do engajamento de nossas incríveis girls, está confirmado para o dia
 
 Agradecemos em nome de toda a comunidade a coragem e altruísmo dessas mulheres, que são responsáveis por promover eventos que somam forças para um mundo melhor. A Dev/Oceanógrafa Leticia Portella está responsável pela organização.
 
-.. figure:: {filename}/images/djangogirls.jpg
-    :target: {filename}/images/djangogirls.jpg
+.. figure:: {static}/images/djangogirls.jpg
+    :target: {static}/images/djangogirls.jpg
     :alt: Work
     :align: center
 

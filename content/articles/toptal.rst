@@ -10,8 +10,8 @@ A Toptal será por mais uma vez, patrocinadora da Python Brasil. Eles entraram p
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/toptal.jpg
-    :target: {filename}/images/toptal.jpg
+.. figure:: {static}/images/toptal.jpg
+    :target: {static}/images/toptal.jpg
     :alt: Work
     :align: center
 
