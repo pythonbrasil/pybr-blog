@@ -10,8 +10,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 Aconteceu no Axado a segunda reunião referente a organização da próxima conferência Python Brasil. Discutimos muitas ideias interessantes para o evento como evolução do dia de Sprint e organização para as trilhas e tutoriais.
 
-.. figure:: {filename}/images/reuniao.jpg
-    :target: {filename}/images/reuniao.jpg
+.. figure:: {static}/images/reuniao.jpg
+    :target: {static}/images/reuniao.jpg
     :alt: Work
     :align: center
 

@@ -5,14 +5,14 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Python Brasil'
 SITENAME = u'Python Brasil Blog'
-SITEURL = 'https://blog.pythonbrasil.org.br'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 THEME = 'themes/pelican-pybr'
 
-DEFAULT_LANG = u'pt'
+DEFAULT_LANG = 'pt-br'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,8 +22,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 STATIC_PATHS = ['images']
-EXTRA_PATH_METADATA = {
-}
 
 # Blogroll
 LINKS = (
@@ -42,4 +40,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = False

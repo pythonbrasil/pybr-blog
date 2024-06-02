@@ -45,8 +45,8 @@ Visite também no site e encontre tarifas promocionais no reservas on line.
 
 http://www.hotelvalerim.com.br/plaza/
 
-.. figure:: {filename}/images/valerim.jpg
-    :target: {filename}/images/valerim.jpg
+.. figure:: {static}/images/valerim.jpg
+    :target: {static}/images/valerim.jpg
     :alt: Work
     :align: center
 

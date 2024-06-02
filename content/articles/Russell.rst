@@ -8,8 +8,8 @@ Russell Keith-Magee na Python Brasil 12
 
 A Conferência Python Brasil 12 confirma Russell Keith-Magee como keynote. Mais uma pessoa que tornará nosso evento ainda mais fantástico.
 
-.. figure:: {filename}/images/Russell.jpg
-    :target: {filename}/images/Russell.jpg
+.. figure:: {static}/images/Russell.jpg
+    :target: {static}/images/Russell.jpg
     :alt: Work
     :align: center
 

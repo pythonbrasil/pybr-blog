@@ -10,8 +10,8 @@ Faala Galera...
 
 Como foi definido em SJC iremos a OktoberFest Blumenau, isso foi induzido por um slide supostamente inserido "sem querer" na proposta para cidade sede. 
 
-.. figure:: {filename}/images/oktoberfest.jpg
-    :target: {filename}/images/oktoberfest.jpg
+.. figure:: {static}/images/oktoberfest.jpg
+    :target: {static}/images/oktoberfest.jpg
     :alt: Work
     :align: center
 

@@ -8,8 +8,8 @@ Sam Agnew será Keynote da Python Brasil 12
 
 A Python Brasil 12 terá Sam Agnew como Keynote. Ele fará um live coding em sua apresentação, com a proposta de criação de um jogo para Gameboy. Será sensacional 0//
 
-.. figure:: {filename}/images/Sam.jpg
-    :target: {filename}/images/Sam.jpg
+.. figure:: {static}/images/Sam.jpg
+    :target: {static}/images/Sam.jpg
     :alt: Work
     :align: center
 

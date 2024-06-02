@@ -10,8 +10,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 É com muita felicidade que anunciamos o local e as datas da Python Brasil 12 hehe 
 
-.. figure:: {filename}/images/centrosul.jpg
-    :target: {filename}/images/centrosul.jpg
+.. figure:: {static}/images/centrosul.jpg
+    :target: {static}/images/centrosul.jpg
     :alt: Work
     :align: center
 

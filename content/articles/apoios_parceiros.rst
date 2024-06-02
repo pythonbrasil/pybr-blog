@@ -12,8 +12,8 @@ Esperamos que todos encontrem bastante oportunidades e parceiros durante a Pytho
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/apoios.jpg
-    :target: {filename}/images/apoios.jpg
+.. figure:: {static}/images/apoios.jpg
+    :target: {static}/images/apoios.jpg
     :alt: Work
     :align: center
 

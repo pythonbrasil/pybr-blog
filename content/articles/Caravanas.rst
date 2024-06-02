@@ -26,8 +26,8 @@ Caso já tenha o grupo formado, **com a certeza da presença de todos no evento*
 
 Após isso, passaremos o procedimento de inscrição dos participantes da caravana, para a pessoa responsável.
 
-.. figure:: {filename}/images/pybr11.jpg
-    :target: {filename}/images/pybr11.jpg
+.. figure:: {static}/images/pybr11.jpg
+    :target: {static}/images/pybr11.jpg
     :alt: Work
     :align: center
 

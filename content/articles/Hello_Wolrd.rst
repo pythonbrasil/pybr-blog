@@ -14,7 +14,7 @@ Criamos esse blog para deixar vocês informados sobre tudo o que vai acontecer n
 
 Abraço a todos. Floripa aguarda vocês ;)
 
-.. figure:: {filename}/images/diario1.jpg
-    :target: {filename}/images/diario1.jpg
+.. figure:: {static}/images/diario1.jpg
+    :target: {static}/images/diario1.jpg
     :alt: Work
     :align: center

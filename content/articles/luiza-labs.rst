@@ -12,8 +12,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/luiza-labs.jpg
-    :target: {filename}/images/luiza-labs.jpg
+.. figure:: {static}/images/luiza-labs.jpg
+    :target: {static}/images/luiza-labs.jpg
     :alt: Work
     :align: center
 

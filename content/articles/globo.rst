@@ -12,8 +12,8 @@ Faala Galera... Aqui é o Big Kahuna 0/
 
 Colocamos aqui o nosso agradecimento :)
 
-.. figure:: {filename}/images/globo.jpg
-    :target: {filename}/images/globo.jpg
+.. figure:: {static}/images/globo.jpg
+    :target: {static}/images/globo.jpg
     :alt: Work
     :align: center
 

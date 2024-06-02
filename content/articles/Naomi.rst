@@ -8,8 +8,8 @@ Naomi Ceder na Python Brasil 12
 
 A Conferência Python Brasil 12 confirma mais um nome sensacional como Keynote, dessa vez temos o prazer de anunciar a Naomi Ceder.
 
-.. figure:: {filename}/images/Naomi.jpg
-    :target: {filename}/images/Naomi.jpg
+.. figure:: {static}/images/Naomi.jpg
+    :target: {static}/images/Naomi.jpg
     :alt: Work
     :align: center
 

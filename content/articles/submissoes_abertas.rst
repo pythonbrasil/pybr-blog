@@ -20,8 +20,8 @@ Sprints - http://speakerfight.com/events/python-brasil12-sprints/
 
 Abaixo segue um tributo à Python Brasil[10] em Pernambuco. Uma homenagem à Python Nordeste que começa hoje <3
 
-.. figure:: {filename}/images/abertura_submissoes.jpg
-    :target: {filename}/images/abertura_submissoes.jpg
+.. figure:: {static}/images/abertura_submissoes.jpg
+    :target: {static}/images/abertura_submissoes.jpg
     :alt: Work
     :align: center
 
