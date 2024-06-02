@@ -1,0 +1,34 @@
+{% block footer %}
+<div class="ui inverted vertical footer segment">
+    <div class="ui aligned container">
+        <div class="ui stackable inverted divided grid">
+            <div class="eight wide column">
+                <h4 class="ui inverted header">Links</h4>
+                <div class="ui inverted link list">
+                    {% for item, url in LINKS %}
+                    <a href="{{ url }}" class="item">{{ item }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="four wide column">
+                {% block extra_footer_content %}
+                <h4 class="ui inverted header">Extra content</h4>
+                <p>Some content</p>
+                {% endblock %}
+            </div>
+        </div>
+        <div class="ui inverted section divider"></div>
+        {% if LOGOPATH %}
+        <img class="ui centered mini image" src="{{ SITEURL }}{{ LOGOPATH }}">
+        {% else %}
+        <img class="ui centered mini image" src="{{ SITEURL }}/theme/images/logo.png">
+        {% endif %}
+        <div class="ui horizontal inverted small divided link list">
+            {% for item, url in LINKS %}
+            <a href="{{ url }}" class="item">{{ item }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}
+

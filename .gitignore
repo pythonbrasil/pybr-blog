@@ -3,3 +3,5 @@
 *.pyc
 *.pid
 output/
+cache/
+
