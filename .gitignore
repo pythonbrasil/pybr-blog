@@ -1,7 +1,7 @@
 .venv
+venv
 *.log
 *.pyc
 *.pid
 output/
 cache/
-

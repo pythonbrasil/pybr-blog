@@ -1,93 +1,246 @@
 body {
-    background-color: #FFFFFF;
-}
-.main.container {
-    margin-top: 8em;
-	min-height: 600px;
+  margin: 0;
+  padding: 0;
+  color: #1f2937;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.intro {
-    background: #0056CD;
-    margin-top: 30px !important;
-    margin-bottom: 60px !important;
-    border-bottom: 1px solid #eee;
-    padding: 100px !important;
-    color: rgba(255, 255, 255, 0.8);
+.highlight,
+.highlight-hover {
+  position: relative;
+}
+
+.highlight:before,
+.highlight-hover:hover:before {
+  content: "";
+  position: absolute;
+  width: calc(100% + 4px);
+  height: 40%;
+  left: -2px;
+  bottom: 2px;
+  z-index: -1;
+}
+
+.verde {
+  color: #064E3B;
+}
+
+.verde:before {
+  background-color: #4ADE80;
+}
+
+.amarelo {
+  color: #713f12;
+}
+
+.amarelo:before {
+  background-color: #FDE047;
+}
+
+.azul {
+  color: #1e3a8a;
+}
+
+.azul:before {
+  background-color: #93c5fd;
+}
+
+.vermelho:before {
+  background-color: #fb7185;
+}
+
+.cinza:before {
+  background-color: #d9dee3;
+}
+
+.really-small {
+  font-size: 14px;
+  vertical-align: top;
+}
+
+header {
+  padding: 20px 0 10px 20px;
+  margin-bottom: 50px;
+}
+
+section {
+  margin: 0;
+  padding: 6px 0 6px 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul {
+  list-style-type: none;
+  list-style-position: inside;
+  padding: 20px;
+}
+
+nav ul li::marker {
+  content: "⁃ ";
+}
+
+.event {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+  max-width: 420px;
+}
+
+.event:last-child {
+  padding: 0;
+}
+
+.event-date {
+  order: 2;
+  padding-right: 16px;
+  color: rgb(0, 0, 0, 0.6);
+  flex-shrink: 0;
+}
+
+.event-name {
+  order: 0;
+  padding-right: 20px;
+}
+
+.event-name a {
+  text-decoration: none;
+}
+
+.event-location {
+  order: 1;
+  color: rgb(0, 0, 0, 0.6);
+  font-style: italic;
+  flex-shrink: 0;
+}
+
+@media only screen and (min-width: 960px) {
+  header {
+    padding: 40px 0 20px 40px;
+  }
+
+  section {
+    margin: 0;
+    padding: 10px 0 10px 40px;
+  }
+
+  h1 {
+    margin: 0;
+  }
+
+  nav {
+    padding: 40px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    text-align: right;
+  }
+
+  nav ul {
+    list-style: none;
+  }
+
+  nav ul li::marker {
+    content: "";
+  }
+
+  .event {
+    flex-direction: row;
+    max-width: 600px;
+  }
+
+  .event-date {
+    order: 0;
+  }
+
+  .event-name {
+    order: 1;
+  }
+
+  .event-location {
+    order: 2;
+  }
+}
+
+
+.main.container {
+  margin-top: 8em;
+  min-height: 600px;
 }
 
 .articles {
-    margin-bottom: 50px !important;
+  margin-bottom: 50px !important;
 }
 
 .main.menu {
-    margin-top: 4em;
-    border-radius: 0;
-    border: none;
-    box-shadow: none;
-    transition:
-        box-shadow 0.5s ease,
-        padding 0.5s ease
-    ;
-}
-.main.menu .item img.logo {
-    margin-right: 1.5em;
+  margin-top: 4em;
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  transition:
+    box-shadow 0.5s ease,
+    padding 0.5s ease;
 }
 
-.overlay {
-    float: left;
-    margin: 0em 3em 1em 0em;
-}
-.overlay .menu {
-    position: relative;
-    left: 0;
-    transition: left 0.5s ease;
+.main.menu .item img.logo {
+  margin-right: 1.5em;
 }
 
 .main.menu.fixed {
-    background-color: #FFFFFF;
-    border: 1px solid #DDD;
-    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  background-color: #FFFFFF;
+  border: 1px solid #DDD;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
 }
 
 .overlay.fixed .menu {
-    left: 800px;
+  left: 800px;
 }
 
 .text.container .left.floated.image {
-    margin: 2em 2em 2em -4em;
+  margin: 2em 2em 2em -4em;
 }
+
 .text.container .right.floated.image {
-    margin: 2em -4em 2em 2em;
+  margin: 2em -4em 2em 2em;
 }
 
 .ui.footer.segment {
-    margin: 5em 0em 0em;
-    padding: 5em 0em;
-}
-
-.article-top {
-	padding-bottom: 50px !important;
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
 }
 
 .article-huge {
-    font-size: 4em !important;
+  font-size: 4em !important;
 }
 
 .chevron:hover {
-    transform: scale(1.5);
-    -moz-transform: scale(1.5);
-    -webkit-transform: scale(1.5);
-    -o-transform: scale(1.5);
-    -ms-transform: scale(1.5);
+  transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  -ms-transform: scale(1.5);
 }
 
 .page-text {
-    font-size: 1.5em;
+  font-size: 1.5em;
 }
+
 .archive {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .archive a {
-	padding-left: 15px;
+  padding-left: 15px;
+}
+
+.ui.menu {
+  border: 0;
+  box-shadow: none;
 }

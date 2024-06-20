@@ -1,5 +1,5 @@
 AUTHOR = 'Associação Python Brasil'
-SITENAME = 'Blog Python Brasil'
+SITENAME = 'Blog da Python Brasil'
 SITEURL = ""
 
 PATH = "content"
