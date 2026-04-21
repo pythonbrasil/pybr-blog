@@ -72,6 +72,8 @@ publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
 
 github: publish
+	# Ensure CNAME is preserved in the generated output (so GitHub Pages keeps custom domain)
+	[ -f CNAME ] && cp CNAME "$(OUTPUTDIR)/CNAME" || true
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 

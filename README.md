@@ -38,3 +38,41 @@ Agora basta fazer as modificações na pasta *content/pages*, rodar os comandos 
 Resta então fazer o commit de suas alterações em seu repositório local e enviar-nos o Pull Request! o/
 
 Mais informações sobre como funciona o Pelican, indicamos o artigo - [http://mindbending.org/pt/instalando-o-pelican](http://mindbending.org/pt/instalando-o-pelican).
+
+## Como atualizar o GitHub Pages (branch gh-pages)
+
+1. Certifique-se de estar na branch principal (`master`):
+
+```bash
+ git checkout master
+```
+
+2. Ative o ambiente virtual e instale as dependências (se necessário):
+
+```bash
+ source venv/bin/activate
+ pip install -r requirements.txt
+```
+
+3. Gere e publique o site para o GitHub Pages:
+
+```bash
+ make clean
+ make github
+```
+
+Isso irá:
+- Gerar os arquivos estáticos de produção (usando `publishconf.py`)
+- Copiar o arquivo `CNAME` para o diretório de saída (mantendo o domínio customizado)
+- Fazer push automático para a branch `gh-pages`
+
+4. Pronto! O site será atualizado em https://blog.pythonbrasil.org.br/
+
+Se precisar apenas gerar o site localmente para testar, use:
+
+```bash
+make html
+make serve
+```
+
+E acesse http://localhost:8000
