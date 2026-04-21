@@ -19,4 +19,4 @@ E para celebrar essa reativação, já voltamos com um assunto que é a cara da 
 
 Abraços,
 
-Talita Rossari e Belisa Arnhold, Kahunas da Python Brasil 2026.
+Talita Rossari e Belisa Arnhold, Kahuna's da Python Brasil 2026.
