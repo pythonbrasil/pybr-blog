@@ -27,6 +27,8 @@ Pronto! Você já está na pasta do projeto! Agora vamos instalar os programas n
 
 Legal, agora já instalei todos os programas, vamos fazê-lo rodar em nosso computador?
 
+> make html
+
 > make serve
 
 O *make html* irá gerar o HTML e o *make serve* irá criar o servidor. Basta acessar *localhost:8000* e pronto! O site já está rodando em seu computador localmente!

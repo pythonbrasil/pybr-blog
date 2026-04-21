@@ -244,3 +244,7 @@ nav ul li::marker {
   border: 0;
   box-shadow: none;
 }
+
+#o-poder-do-software-livre-obrigado-apyb, #ja-tenho-ingresso-e-agora{
+  margin-top: 14px;
+}
