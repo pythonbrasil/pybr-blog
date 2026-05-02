@@ -2,7 +2,7 @@ Call for Papers: Primeira rodada
 ============================================
 
 :author: Belisa Arnhold
-:date: 2026-05-02 13:00
+:date: 2026-05-01 12:00
 :summary: O Call for Papers da Python Brasil 2026 já está em andamento, com a fase de revisões iniciada e a primeira rodada de aceites prevista para 10 de maio. Submeta sua proposta e faça parte desse grande evento da comunidade Python no Brasil!
 
 O Call for Papers (CFP) da Python Brasil 2026 já está em andamento e segue com um cronograma definido para submissão e avaliação de propostas.
@@ -16,3 +16,5 @@ Pessoas interessadas em apresentar palestras, tutoriais ou outras atividades pod
 https://talks.python.org.br/pybr26/cfp
 
 A participação no CFP é uma oportunidade de contribuir com a comunidade e fortalecer a troca de conhecimento que sustenta o crescimento do ecossistema Python no Brasil.
+
+Belisa Arnhold, co-organizadora da Python Brasil 2026.
