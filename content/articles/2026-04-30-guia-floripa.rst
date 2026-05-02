@@ -2,7 +2,7 @@ Guia Essencial de Florianópolis — Python Brasil 2026
 ======================================================
 
 :author: Talita Rossari & Pedro Guardini
-:date: 2026-04-21 09:00
+:date: 2026-04-30 09:00
 :summary: Atualização 10 anos depois do clássico guia de Floripa — com dicas reais pra quem vem pra Python Brasil 2026.
 
 ===========================

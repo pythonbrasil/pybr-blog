@@ -17,6 +17,10 @@ AUTHOR_FEED_RSS = None
 
 THEME='theme'
 
+# Plugins
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['date_filter']
+
 # Blogroll
 LINKS = (
     ('pythonbrasil.org.br', 'https://pythonbrasil.org.br'),
