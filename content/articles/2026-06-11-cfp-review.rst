@@ -10,7 +10,7 @@ Oi pessoal!
 Você que enviou uma atividade para a Python Brasil deve ter recebido um e-mail te convidando para o Pretalx. Esse convite te dá permissão para revisar as atividades submetidas.
 
 
-Essa prática é comum nos eventos de Python do Brasil e do mundo e existem bons motivos para isso. Alguns deles são o fato de que as pessoas que ajudam a escolher as atividades são as mais interessadas em prover bom conteúdo para o evento; também nos agrada muito que a decisão seja democrática e o conhecimento dos participantes influencie diretamente nas escolhas.
+Essa prática é comum nos eventos de Python do Brasil e do mundo e existem bons motivos para isso. O primeiro é o fato de que as pessoas que ajudam a escolher as atividades são as mais interessadas em prover bom conteúdo para o evento; além disso, nos agrada muito que a decisão seja democrática e o conhecimento dos participantes influencie diretamente nas escolhas.
 
 Vamos ser sinceras: a decisão final cabe à organização. Precisamos garantir o cumprimento do CDC, garantir a diversidade do evento e também distribuir da melhor forma possível as áreas de conhecimento que serão apresentadas no evento. Isso posto, as avaliações dos ministrantes é de suma importância no ranqueamento das propostas. 
 
