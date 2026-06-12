@@ -20,12 +20,12 @@ Instruções
 
 Agora vamos ao funcionamento da avaliação. Primeiro, você deve aceitar o convite enviado para o seu email. Ele vai te redirecionar para o pretalx. Caso você já tenha aceito o convite, basta voltar à plataforma e fazer login com o mesmo e-mail usado na submissão de atividade (https://talks.python.org.br/pybr26/cfp).
 
-Após o login, você poderá visualizar todas as atividades submetidas. Um detalhe: as propostas são anonimizadas para que a avaliaçao seja sobre o conteúdo e não sobre as pessoas que enviaram. Se você identificar quem é o proponente, seja por já ter assistido à palestra antes ou ter tido acesso ao conteúdo previamente, pedimos que se abstenha de avaliar a palestra em questão. 
+Após o login, você poderá visualizar todas as atividades submetidas. Um detalhe: as propostas são anonimizadas para que a avaliaçao seja sobre o conteúdo e não sobre as pessoas que enviaram. Se você identificar quem é o proponente, seja por já ter participado da atividade antes ou ter tido acesso ao conteúdo previamente, pedimos que se abstenha de avaliar a atividade em questão. 
 
 Pedimos que cada ministrante avalie **pelo menos três atividades**. A escolha das atividades deve se basear, primeiramente, na sua familiaridade com o tema. Essa é a primeira pergunta da avaliação e avaliações feitas por ministrantes que declaram ter conhecimento do tema têm mais peso na seleção final. O segundo ponto para escolha é o número de avaliações já feitas. De preferência para propostas com menos avaliações. Recebemos algumas propostas em outros idiomas. Se você não domina o idioma da submissão, não há problema em se abster dessa avaliação. 
 
 As opções para avaliar são: 
- - Abster-se, o que significa que você não irá avaliar a palestra. 
+ - Abster-se, o que significa que você não irá avaliar a atividade. 
  - Ignorar por enquanto, que significa que você pretende voltar para fazer a avaliação
  - Salvar e seguir para a próxima. Nesse caso, todas as perguntas obrigatórias devem ter sido respondidas, senão a resposta não será salva.
 
