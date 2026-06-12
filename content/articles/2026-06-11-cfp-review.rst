@@ -29,6 +29,8 @@ As opções para avaliar são:
  - Ignorar por enquanto, que significa que você pretende voltar para fazer a avaliação
  - Salvar e seguir para a próxima. Nesse caso, todas as perguntas obrigatórias devem ter sido respondidas, senão a resposta não será salva.
 
+Pedimos que as avaliações sejam enviadas até 25 de junho. Informamos anteriormente a data de 30 de junho, mas a data correta para que possamos fechar a grade dentro do cronograma é realemnte 25/06.
+
 Mais uma vez, agradecemos por enviar sua submissão para a Python Brasil e desejamos boa sorte a todas e todos proponentes. Agora, agradecemos também sua dedicação para a revisão. A comunidade é mais forte com a contribuição de todos. 
 
 Muito obrigada e nos vemos em outubro! 
