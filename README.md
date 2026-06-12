@@ -25,6 +25,8 @@ Pronto! Você já está na pasta do projeto! Agora vamos instalar os programas n
 
 > pip install -r requirements.txt
 
+Se a instalacão de requirements falhar, garanta que sua versão do python é no máximo 3.12. Versões mais atuais podem apresentar problemas de compatibilidade. 
+
 Legal, agora já instalei todos os programas, vamos fazê-lo rodar em nosso computador?
 
 > make html
