@@ -35,7 +35,7 @@ Legal, agora já instalei todos os programas, vamos fazê-lo rodar em nosso comp
 
 O *make html* irá gerar o HTML e o *make serve* irá criar o servidor. Basta acessar *localhost:8000* e pronto! O site já está rodando em seu computador localmente!
 
-Agora basta fazer as modificações na pasta *content/pages*, rodar os comandos *make html* e *make serve* e suas alterações já serão visíveis.
+Agora basta fazer as modificações na pasta *content/articles*, rodar os comandos *make html* e *make serve* e suas alterações já serão visíveis.
 
 Resta então fazer o commit de suas alterações em seu repositório local e enviar-nos o Pull Request! o/
 
