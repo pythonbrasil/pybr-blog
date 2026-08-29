@@ -1,5 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog da Python Brasil - articles</title><link href="https://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="https://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>https://blog.pythonbrasil.org.br/</id><updated>2026-06-11T22:00:00-03:00</updated><entry><title>Avaliação de atividades para a Python Brasil 2026</title><link href="https://blog.pythonbrasil.org.br/avaliacao-de-atividades-para-a-python-brasil-2026.html" rel="alternate"></link><published>2026-06-11T22:00:00-03:00</published><updated>2026-06-11T22:00:00-03:00</updated><author><name>Belisa Arnhold</name></author><id>tag:blog.pythonbrasil.org.br,2026-06-11:/avaliacao-de-atividades-para-a-python-brasil-2026.html</id><summary type="html">&lt;p class="first last"&gt;Estão abertas as avaliações das atividades submetidas para a Python Brasil 2026!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog da Python Brasil - articles</title><link href="https://blog.pythonbrasil.org.br/" rel="alternate"></link><link href="https://blog.pythonbrasil.org.br/feeds/articles.atom.xml" rel="self"></link><id>https://blog.pythonbrasil.org.br/</id><updated>2026-08-28T22:00:00-03:00</updated><entry><title>Sugestões de estadia Python Brasil 2026</title><link href="https://blog.pythonbrasil.org.br/sugestoes-de-estadia-python-brasil-2026.html" rel="alternate"></link><published>2026-08-28T22:00:00-03:00</published><updated>2026-08-28T22:00:00-03:00</updated><author><name>Belisa Arnhold</name></author><id>tag:blog.pythonbrasil.org.br,2026-08-28:/sugestoes-de-estadia-python-brasil-2026.html</id><summary type="html">&lt;p class="first last"&gt;Sugestões de estadia Python Brasil 2026&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Oi pessoal!&lt;/p&gt;
+&lt;p&gt;Separamos a seguir algumas sugestões de estadia.&lt;/p&gt;
+&lt;p&gt;Infelizmente, o hotel em que ocorrerá o evento teve todos seus quartos locados para uma festa de formatura do Ensino Médio e estamos, na medida, bravas e com inveja dessas crianças  😡 😂&lt;/p&gt;
+&lt;p&gt;Piadas a parte, seguem hospedagens próximas ao evento. Sendo transparantes como tentamos sempre ser, as hospedagens forneceram cupons de desconto estilo metade do dobro, e portanto, não vemos sentido em divulgar eles.&lt;/p&gt;
+&lt;p&gt;Todas as rotas abaixo levam ao &lt;strong&gt;Oceania Park Hotel&lt;/strong&gt; (sede da Python Brasil 2026).&lt;/p&gt;
+&lt;div class="section" id="pousada-castelo-da-ilha"&gt;
+&lt;h2&gt;Pousada Castelo da Ilha&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Pousada+Castelo+da+Ilha%2C+Rua+dos+Lordes%2C+600+-+Ingleses+Norte%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://castelodailha.com.br/pt/"&gt;castelodailha.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="hotel-pousada-favareto"&gt;
+&lt;h2&gt;Hotel &amp;amp; Pousada Favareto&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Hotel+%26+Pousada+Favareto%2C+R.+Intendente+Jo%C3%A3o+Nunes+Vieira%2C+1866+-+Ingleses+do+Rio+Vermelho%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://www.hotelepousadafavareto.com.br/"&gt;hotelepousadafavareto.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="ingleses-village-hotel-e-pousada"&gt;
+&lt;h2&gt;Ingleses Village hotel e pousada&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Ingleses+Village+hotel+e+pousada%2C+Rua+Luiz+Elias+Daux%2C+38+-+Ingleses+do+Rio+Vermelho%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Reservas:&lt;/strong&gt; &lt;a class="reference external" href="https://www.booking.com/hotel/br/pousada-village-florianopolis.pt-br.html"&gt;Booking.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="gaivotas-praia-hotel"&gt;
+&lt;h2&gt;Gaivotas Praia Hotel&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Gaivotas+Praia+Hotel%2C+R.+Dante+de+Patta%2C+172+-+Praia+dos+Ingleses%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://gaivotaspraiahotel.com.br/"&gt;gaivotaspraiahotel.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="palm-beach-apart-hotel"&gt;
+&lt;h2&gt;Palm Beach Apart Hotel&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Palm+Beach+Apart+Hotel%2C+R.+das+Gaivotas%2C+718+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://palmbeach.com.br/"&gt;palmbeach.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="ingleses-park-hotel"&gt;
+&lt;h2&gt;Ingleses Park Hotel&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Ingleses+Park+Hotel%2C+Estr.+Dom+Jo%C3%A3o+Becker%2C+513+-+Ingleses+Norte%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://www.inglesesparkhotel.com.br/"&gt;inglesesparkhotel.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="pousada-costao-dos-ingleses"&gt;
+&lt;h2&gt;Pousada Costão dos Ingleses&lt;/h2&gt;
+&lt;p&gt;Rota a pé até o Oceania Park Hotel (sede do evento):&lt;/p&gt;
+&lt;iframe
+    src="https://maps.google.com/maps?f=d&amp;amp;saddr=Pousada+Cost%C3%A3o+dos+Ingleses%2C+R.+das+Gaivotas%2C+1117+-+Ingleses+Norte%2C+Florian%C3%B3polis+-+SC&amp;amp;daddr=Oceania+Park+Hotel+Spa+%26+Convention+Center%2C+R.+do+Marisco%2C+550+-+Ingleses+Centro%2C+Florian%C3%B3polis+-+SC&amp;amp;dirflg=w&amp;amp;hl=pt-BR&amp;amp;output=embed"
+    width="100%"
+    height="450"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"&gt;
+&lt;/iframe&gt;&lt;p&gt;&lt;strong&gt;Site:&lt;/strong&gt; &lt;a class="reference external" href="https://www.pousadacostaodosingleses.com.br/"&gt;pousadacostaodosingleses.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Muito obrigada e nos vemos em outubro!&lt;/p&gt;
+&lt;p&gt;Belisa Arnhold, co-organizadora da Python Brasil 2026.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="articles"></category></entry><entry><title>Avaliação de atividades para a Python Brasil 2026</title><link href="https://blog.pythonbrasil.org.br/avaliacao-de-atividades-para-a-python-brasil-2026.html" rel="alternate"></link><published>2026-06-11T22:00:00-03:00</published><updated>2026-06-11T22:00:00-03:00</updated><author><name>Belisa Arnhold</name></author><id>tag:blog.pythonbrasil.org.br,2026-06-11:/avaliacao-de-atividades-para-a-python-brasil-2026.html</id><summary type="html">&lt;p class="first last"&gt;Estão abertas as avaliações das atividades submetidas para a Python Brasil 2026!&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Oi pessoal!&lt;/p&gt;
 &lt;p&gt;Você que enviou uma atividade para a Python Brasil deve ter recebido um e-mail te convidando para o Pretalx. Esse convite te dá permissão para revisar as atividades submetidas.&lt;/p&gt;
 &lt;p&gt;Essa prática é comum nos eventos de Python do Brasil e do mundo e existem bons motivos para isso. O primeiro é o fato de que as pessoas que ajudam a escolher as atividades são as mais interessadas em prover bom conteúdo para o evento; além disso, nos agrada muito que a decisão seja democrática e o conhecimento dos participantes influencie diretamente nas escolhas.&lt;/p&gt;
